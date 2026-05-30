@@ -100,6 +100,10 @@ It diagnoses the PMM problem, chooses the right downstream skill, and prevents t
 
 You do not need every skill every time. The point is to give the agent the right PMM judgment at the right moment.
 
+If you only read one example, start here:
+
+- [Full GTM system example: from customer notes to launch-ready PMM system](examples/full-gtm-system-example.md)
+
 Common workflows:
 
 ### Customer notes to positioning
