@@ -1,4 +1,7 @@
 # 09. Final GTM System
+> Skill used: Full workflow output
+> Output type: Executive GTM summary
+> Role in workflow: Collects the final outputs into one usable GTM system.
 
 This file collects the final outputs created by the workflow.
 
@@ -18,19 +21,13 @@ The strongest frame:
 
 > Capture the “how we actually do things” knowledge that disappears when employees leave, teams reorganize, and new hires inherit work without context.
 
-## Target segment
+## Strategy snapshot
 
-Scaling B2B companies with 400-3,000 employees where onboarding, reorgs, distributed work, and employee turnover create measurable ramp and continuity problems.
-
-## Primary buyer
-
-- VP People / Chief People Officer
-- COO
-- Head of Enablement
-
-## Real alternative
-
-Slack archaeology, stale wikis, meeting recordings, onboarding buddies, tribal knowledge, and asking the same experienced employees over and over.
+| Dimension | Recommendation |
+| --- | --- |
+| Target segment | Scaling B2B companies with 400-3,000 employees where onboarding, reorgs, distributed work, and employee turnover create measurable ramp and continuity problems. |
+| Primary buyer | VP People / Chief People Officer; COO; Head of Enablement |
+| Real alternative | Slack archaeology, stale wikis, meeting recordings, onboarding buddies, tribal knowledge, and asking the same experienced employees over and over. |
 
 ## Positioning statement
 
@@ -38,21 +35,12 @@ KnowledgeWeave helps scaling companies preserve the “how we actually do things
 
 ## Homepage hero
 
-Headline:
-
-> Capture institutional knowledge before it walks out the door.
-
-Subhead:
-
-> KnowledgeWeave turns meetings, docs, Slack threads, and project updates into a living knowledge graph that shows every employee what they need to know for their role and current work.
-
-Proof line:
-
-> In one beta, a customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks.
-
-CTA:
-
-> See how KnowledgeWeave preserves company know-how
+| Element | Final copy |
+| --- | --- |
+| Headline | Capture institutional knowledge before it walks out the door. |
+| Subhead | KnowledgeWeave turns meetings, docs, Slack threads, and project updates into a living knowledge graph that shows every employee what they need to know for their role and current work. |
+| Proof line | In one beta, a customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks. |
+| CTA | See how KnowledgeWeave preserves company know-how |
 
 ## Messaging pillars
 
@@ -64,21 +52,11 @@ The three differentiated messaging pillars:
 
 ## Launch tier
 
-Tier 2 campaign-level launch.
-
-Why:
-
-- meaningful cross-functional problem
-- strong customer language
-- useful beta proof
-- clear demo value
-- needs sales enablement and trust/privacy objection handling
-
-Why not Tier 1:
-
-- no public named customer yet
-- proof is promising but early
-- category education still needs more assets
+| Decision | Rationale |
+| --- | --- |
+| Tier | Tier 2 campaign-level launch. |
+| Why | Meaningful cross-functional problem; strong customer language; useful beta proof; clear demo value; needs sales enablement and trust/privacy objection handling. |
+| Why not Tier 1 | No public named customer yet; proof is promising but early; category education still needs more assets. |
 
 ## Launch narrative
 
@@ -108,15 +86,10 @@ The first-call sales story:
 
 ## Proof package
 
-Current proof:
-
-> In one beta, a customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks.
-
-Supporting proof:
-
-- engineering team identified 23 undocumented ownership gaps before a reorg
-- 71% of new hires clicked recommended context in first two weeks
-- managers reported fewer repeated onboarding questions in weeks 3-6
+| Proof type | Evidence |
+| --- | --- |
+| Current proof | In one beta, a customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks. |
+| Supporting proof | Engineering team identified 23 undocumented ownership gaps before a reorg; 71% of new hires clicked recommended context in first two weeks; managers reported fewer repeated onboarding questions in weeks 3-6. |
 
 ## Claims to avoid
 

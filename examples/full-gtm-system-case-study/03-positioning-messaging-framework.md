@@ -1,6 +1,8 @@
 # 03. Positioning and Messaging Framework
+> Skill used: `positioning-messaging-framework`
+> Output type: Positioning + messaging foundation
+> Role in workflow: Turns VOC into segment, alternative, positioning, and 3 differentiated pillars.
 
-Skill used: `positioning-messaging-framework`
 
 ## Positioning diagnosis
 
@@ -16,29 +18,12 @@ The buyer problem is not “we need a knowledge graph.” The buyer problem is:
 
 ## Target segment and persona
 
-Primary segment:
-
-Scaling B2B companies with 400-3,000 employees where onboarding, reorgs, distributed work, and employee turnover create measurable ramp and continuity problems.
-
-Primary buyers:
-
-- VP People / Chief People Officer
-- COO
-- Head of Enablement
-
-Key influencers:
-
-- IT / Security
-- Department leaders
-- Knowledge management owners
-- RevOps / Customer Success Operations when account context is a major use case
-
-Out of scope for initial positioning:
-
-- Small teams that can still rely on shoulder-tapping
-- Companies looking only for enterprise search
-- Organizations unwilling to connect collaboration sources
-- Teams without a clear onboarding, transition, or knowledge-risk pain
+| Dimension | Recommendation |
+| --- | --- |
+| Primary segment | Scaling B2B companies with 400-3,000 employees where onboarding, reorgs, distributed work, and employee turnover create measurable ramp and continuity problems. |
+| Primary buyers | VP People / Chief People Officer; COO; Head of Enablement |
+| Key influencers | IT / Security; Department leaders; Knowledge management owners; RevOps / Customer Success Operations when account context is a major use case |
+| Out of scope | Small teams that can still rely on shoulder-tapping; companies looking only for enterprise search; organizations unwilling to connect collaboration sources; teams without a clear onboarding, transition, or knowledge-risk pain |
 
 ## Real alternative
 
@@ -54,28 +39,12 @@ The real alternative is the informal knowledge survival system:
 
 ## Pains, consequences, and JTBD
 
-Pain:
-
-Critical “how we actually do things” knowledge is trapped in people’s heads, meetings, Slack threads, and scattered project artifacts.
-
-Business consequences:
-
-- new hires take too long to become productive
-- managers repeat the same explanations
-- teams repeat avoidable mistakes
-- projects slow down after departures or reorgs
-- customer/account context disappears during handoffs
-- hidden single points of failure create operational risk
-
-Job to be done:
-
-When employees join, leave, change teams, or inherit work, help them quickly understand the context, decisions, owners, and unwritten rules they need to perform with confidence.
-
-Emotional stakes:
-
-- New hires want to stop feeling lost.
-- Managers want to stop being the human search engine.
-- Leaders want to know the company can keep operating when experienced people leave.
+| Layer | Detail |
+| --- | --- |
+| Pain | Critical “how we actually do things” knowledge is trapped in people’s heads, meetings, Slack threads, and scattered project artifacts. |
+| Business consequences | New hires take too long to become productive; managers repeat the same explanations; teams repeat avoidable mistakes; projects slow down after departures or reorgs; customer/account context disappears during handoffs; hidden single points of failure create operational risk. |
+| Job to be done | When employees join, leave, change teams, or inherit work, help them quickly understand the context, decisions, owners, and unwritten rules they need to perform with confidence. |
+| Emotional stakes | New hires want to stop feeling lost; managers want to stop being the human search engine; leaders want to know the company can keep operating when experienced people leave. |
 
 ## Differentiated value
 
@@ -105,46 +74,18 @@ Exactly three pillars, each making a distinct point:
 
 ## Homepage hero draft
 
-Headline:
-
-> Capture institutional knowledge before it walks out the door.
-
-Subhead:
-
-> KnowledgeWeave turns meetings, docs, Slack threads, and project updates into a living knowledge graph that shows every employee what they need to know for their role and current work.
-
-Proof line:
-
-> In beta, one customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks.
-
-Primary CTA:
-
-> See how KnowledgeWeave preserves company know-how
-
-Secondary CTA:
-
-> Explore the onboarding workflow
+| Element | Draft |
+| --- | --- |
+| Headline | Capture institutional knowledge before it walks out the door. |
+| Subhead | KnowledgeWeave turns meetings, docs, Slack threads, and project updates into a living knowledge graph that shows every employee what they need to know for their role and current work. |
+| Proof line | In beta, one customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks. |
+| Primary CTA | See how KnowledgeWeave preserves company know-how |
+| Secondary CTA | Explore the onboarding workflow |
 
 ## Claims policy
 
-Safe claims:
-
-- Preserve institutional knowledge through departures, reorgs, and handoffs.
-- Surface role-specific context for new hires and team movers.
-- Help leaders see hidden knowledge gaps and concentration risk.
-- Reduce repeated questions and duplicated work.
-
-Claims that need more proof:
-
-- Cut onboarding time in half.
-- Save millions in productivity.
-- Eliminate knowledge loss.
-- Automatically capture all company knowledge.
-
-Avoid:
-
-- “single source of truth”
-- “AI-powered knowledge management”
-- “unlock productivity”
-- “enterprise brain”
-- “never lose knowledge again”
+| Claim type | Language |
+| --- | --- |
+| Safe claims | Preserve institutional knowledge through departures, reorgs, and handoffs; surface role-specific context for new hires and team movers; help leaders see hidden knowledge gaps and concentration risk; reduce repeated questions and duplicated work. |
+| Claims that need more proof | Cut onboarding time in half; save millions in productivity; eliminate knowledge loss; automatically capture all company knowledge. |
+| Avoid | “single source of truth”; “AI-powered knowledge management”; “unlock productivity”; “enterprise brain”; “never lose knowledge again” |

@@ -1,6 +1,8 @@
 # 04. Launch Tier and Season-of-Launch Plan
+> Skill used: `launch-tier-framework`
+> Output type: Launch strategy
+> Role in workflow: Chooses launch weight and maps the season-of-launch plan.
 
-Skill used: `launch-tier-framework`
 
 ## Launch tier recommendation
 
@@ -93,21 +95,11 @@ Turn a broad strategic story into concrete buying motions.
 
 ## Launch proof hierarchy
 
-Strongest current proof:
-
-> One beta customer reduced time for new CSMs to handle accounts independently from 14 weeks to 8 weeks.
-
-Supporting proof:
-
-- engineering team identified 23 undocumented ownership gaps before a reorg
-- 71% of new hires clicked recommended context in first two weeks
-- managers reported fewer repeated onboarding questions in weeks 3-6
-
-Proof to avoid overstating:
-
-- broad productivity savings
-- company-wide knowledge capture
-- guaranteed ramp reduction
+| Proof level | Evidence / guidance |
+| --- | --- |
+| Strongest current proof | One beta customer reduced time for new CSMs to handle accounts independently from 14 weeks to 8 weeks. |
+| Supporting proof | Engineering team identified 23 undocumented ownership gaps before a reorg; 71% of new hires clicked recommended context in first two weeks; managers reported fewer repeated onboarding questions in weeks 3-6. |
+| Proof to avoid overstating | Broad productivity savings; company-wide knowledge capture; guaranteed ramp reduction. |
 
 ## Launch risks
 

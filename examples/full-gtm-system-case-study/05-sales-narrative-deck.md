@@ -1,6 +1,8 @@
 # 05. Sales Narrative Deck
+> Skill used: `sales-narrative-deck`
+> Output type: Sales narrative
+> Role in workflow: Turns the positioning into a first-call story and slide flow.
 
-Skill used: `sales-narrative-deck`
 
 This is a first-call sales narrative, not a final designed deck. The goal is to give reps a story they can use in conversation.
 

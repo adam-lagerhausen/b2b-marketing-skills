@@ -1,6 +1,8 @@
 # 08. AI PMM Reviewer Teardown
+> Skill used: `ai-pmm-reviewer`
+> Output type: Review teardown
+> Role in workflow: Pressure-tests draft copy for specificity, proof, and differentiation.
 
-Skill used: `ai-pmm-reviewer`
 
 The reviewer checks whether the final copy is specific, believable, differentiated, and supported by evidence.
 

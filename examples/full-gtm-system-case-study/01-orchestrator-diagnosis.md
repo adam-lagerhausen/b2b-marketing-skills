@@ -1,6 +1,8 @@
 # 01. Orchestrator Diagnosis
+> Skill used: `b2b-pmm-orchestrator`
+> Output type: Workflow diagnosis
+> Role in workflow: Chooses the right sequence and avoids premature copywriting.
 
-Skill used: `b2b-pmm-orchestrator`
 
 ## Diagnosis
 

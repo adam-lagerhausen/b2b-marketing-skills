@@ -1,6 +1,8 @@
 # 06. Demo Storyline
+> Skill used: `demo-storyline`
+> Output type: Demo storyline
+> Role in workflow: Shows how the product proves the story in a real workflow.
 
-Skill used: `demo-storyline`
 
 The demo should not be a feature tour. It should prove the story: companies lose institutional knowledge because context lives in work, not just documents.
 

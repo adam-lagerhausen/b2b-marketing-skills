@@ -1,4 +1,6 @@
 # 00. Raw Inputs
+> Output type: Input archive
+> Role in workflow: Provides the messy source truth for every downstream PMM artifact.
 
 Strong PMM work rarely starts with a clean brief. It starts with fragments: founder language, customer calls, product notes, sales objections, beta feedback, and draft copy that sounds too generic.
 

@@ -4,46 +4,67 @@ This is the flagship end-to-end example for the B2B Marketing Skills repo.
 
 It shows how the skill suite turns messy GTM inputs into a launch-ready PMM system for a specific product: KnowledgeWeave.
 
-Product:
-KnowledgeWeave is an AI knowledge platform that captures institutional knowledge before it walks out the door. It listens to meetings, reads documents, Slack threads, and project updates, then builds a living knowledge graph that surfaces the exact knowledge someone needs for their role and current task.
+## Product snapshot
 
-Tagline:
-The AI that captures institutional knowledge before it walks out the door.
+| Field | Detail |
+| --- | --- |
+| Product | KnowledgeWeave |
+| Tagline | The AI that captures institutional knowledge before it walks out the door. |
+| Product description | KnowledgeWeave is an AI knowledge platform that captures institutional knowledge before it walks out the door. It listens to meetings, reads documents, Slack threads, and project updates, then builds a living knowledge graph that surfaces the exact knowledge someone needs for their role and current task. |
+| Core GTM problem | Experienced employees leave, teams reorganize, and critical “how we actually do things” knowledge disappears. New hires take 6-12 months to become fully productive. Companies lose money through repeated mistakes, slow ramp-up, duplicated work, and decisions made without historical context. |
 
-Core GTM problem:
-Experienced employees leave, teams reorganize, and critical “how we actually do things” knowledge disappears. New hires take 6-12 months to become fully productive. Companies lose money through repeated mistakes, slow ramp-up, duplicated work, and decisions made without historical context.
+## The PMM challenge
 
-## Why this is a strong PMM example
+> Reframe KnowledgeWeave from “AI knowledge management” into a strategic continuity system for preserving how work actually gets done.
 
 Knowledge loss is expensive, familiar, and under-owned. Everyone feels it, but most companies treat it as an onboarding, documentation, or search problem.
 
-The PMM challenge is to reframe it:
+| Not this | But this |
+| --- | --- |
+| better search | institutional knowledge continuity |
+| an AI wiki | faster ramp for new employees |
+| automated meeting notes | fewer repeated mistakes |
+| another knowledge base | less dependence on tribal knowledge |
+| static documentation | a living system for how work actually gets done |
 
-Not:
-- better search
-- an AI wiki
-- automated meeting notes
-- another knowledge base
+## Workflow map
 
-But:
-- institutional knowledge continuity
-- faster ramp for new employees
-- fewer repeated mistakes
-- less dependence on tribal knowledge
-- a living system for how work actually gets done
+```text
+Raw inputs
+  ↓
+Orchestrator diagnosis
+  ↓
+Voice of customer synthesis
+  ↓
+Positioning + 3 differentiated messaging pillars
+  ↓
+Launch tier and season-of-launch plan
+  ↓
+Sales narrative deck
+  ↓
+Demo storyline
+  ↓
+Customer proof package
+  ↓
+AI PMM reviewer teardown
+  ↓
+Final GTM system
+```
 
 ## Case study files
 
-1. [Raw inputs](00-raw-inputs.md)
-2. [Orchestrator diagnosis](01-orchestrator-diagnosis.md)
-3. [Voice of customer synthesis](02-voice-of-customer-synthesis.md)
-4. [Positioning and messaging framework](03-positioning-messaging-framework.md)
-5. [Launch tier and season-of-launch plan](04-launch-tier-framework.md)
-6. [Sales narrative deck](05-sales-narrative-deck.md)
-7. [Demo storyline](06-demo-storyline.md)
-8. [Customer proof package](07-customer-story-engine.md)
-9. [AI PMM reviewer teardown](08-ai-pmm-reviewer.md)
-10. [Final GTM system](09-final-gtm-system.md)
+| Step | File | What it shows |
+| --- | --- | --- |
+| 00 | [Raw inputs](00-raw-inputs.md) | Product notes, customer quotes, sales objections, beta proof, and weak draft copy. |
+| 01 | [Orchestrator diagnosis](01-orchestrator-diagnosis.md) | The recommended PMM workflow and what not to do first. |
+| 02 | [Voice of customer synthesis](02-voice-of-customer-synthesis.md) | Core pains, exact language, objections, and messaging implications. |
+| 03 | [Positioning and messaging framework](03-positioning-messaging-framework.md) | Segment, real alternative, positioning statement, and 3 differentiated pillars. |
+| 04 | [Launch tier and season-of-launch plan](04-launch-tier-framework.md) | Launch weight, launch narrative, phase plan, proof hierarchy, and risks. |
+| 05 | [Sales narrative deck](05-sales-narrative-deck.md) | First-call story, slide outline, discovery questions, and objection handling. |
+| 06 | [Demo storyline](06-demo-storyline.md) | Before/after workflow and proof-oriented demo moments. |
+| 07 | [Customer proof package](07-customer-story-engine.md) | Claim-safe proof hierarchy and customer story structure. |
+| 08 | [AI PMM reviewer teardown](08-ai-pmm-reviewer.md) | Generic draft critique, revised copy, and reviewer scorecard. |
+| 09 | [Final GTM system](09-final-gtm-system.md) | The consolidated positioning, messaging, launch, sales, demo, proof, and claims system. |
 
 ## What this case study demonstrates
 

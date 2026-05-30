@@ -1,6 +1,8 @@
 # 02. Voice of Customer Synthesis
+> Skill used: `voice-of-customer-synthesis`
+> Output type: VOC synthesis
+> Role in workflow: Extracts pains, exact language, objections, and messaging implications.
 
-Skill used: `voice-of-customer-synthesis`
 
 ## Executive summary
 

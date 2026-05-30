@@ -1,6 +1,8 @@
 # 07. Customer Proof Package
+> Skill used: `customer-story-engine`
+> Output type: Proof package
+> Role in workflow: Turns beta evidence into claim-safe proof and customer story material.
 
-Skill used: `customer-story-engine`
 
 The goal is to turn beta evidence into usable proof without inventing claims.
 
@@ -35,17 +37,11 @@ What not to imply:
 
 ## Proof hierarchy
 
-### Tier 1: Use in hero-adjacent proof line
-
-> In one beta, a customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks.
-
-### Tier 2: Use in sales deck and demo
-
-> One engineering team used KnowledgeWeave to identify 23 undocumented ownership gaps before a reorg.
-
-### Tier 3: Use as directional adoption signal
-
-> In pilot onboarding cohorts, 71% of new hires clicked recommended context in their first two weeks.
+| Tier | Use | Proof |
+| --- | --- | --- |
+| Tier 1 | Use in hero-adjacent proof line | In one beta, a customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks. |
+| Tier 2 | Use in sales deck and demo | One engineering team used KnowledgeWeave to identify 23 undocumented ownership gaps before a reorg. |
+| Tier 3 | Use as directional adoption signal | In pilot onboarding cohorts, 71% of new hires clicked recommended context in their first two weeks. |
 
 ## Customer story draft
 
@@ -67,16 +63,9 @@ Story arc:
 
 ## Claims policy
 
-Safe:
-
-- “In one beta...”
-- “helped reduce...”
-- “surfaced relevant context...”
-- “identified ownership gaps...”
-
-Avoid:
-
-- “proven to cut onboarding time in half”
-- “guaranteed ramp reduction”
-- “captures all institutional knowledge”
-- “eliminates repeated questions”
+| Safe | Avoid |
+| --- | --- |
+| “In one beta...” | “proven to cut onboarding time in half” |
+| “helped reduce...” | “guaranteed ramp reduction” |
+| “surfaced relevant context...” | “captures all institutional knowledge” |
+| “identified ownership gaps...” | “eliminates repeated questions” |
