@@ -8,159 +8,89 @@ The reviewer checks whether the final copy is specific, believable, differentiat
 
 Headline:
 
-> Unlock AI-powered revenue intelligence for modern sales teams.
+> Unlock your company’s knowledge with AI.
 
 Subhead:
 
-> PipelineGuard uses cutting-edge AI to streamline forecasting workflows, boost sales productivity, and help teams close more deals with confidence.
+> KnowledgeWeave is an intelligent knowledge management platform that captures, connects, and delivers the information your teams need to work smarter.
 
-## Review diagnosis
+## Reviewer verdict
 
-This copy is fluent but strategically weak.
+This copy is too generic.
 
-It sounds like AI-generated SaaS copy because it uses broad category language, unsupported claims, and generic benefit phrases instead of the customer's actual problem.
+It could describe a wiki, search tool, AI chatbot, LMS, intranet, or productivity platform. It hides the strongest customer language: knowledge walks out the door, new hires inherit docs but not judgment, and reorgs create amnesia.
 
-## Issues by type
+## What failed
 
-### Positioning issue
+### 1. No urgent business problem
 
-Problem:
-
-"Revenue intelligence" is too broad.
-
-Why it matters:
-
-The customer evidence points to a narrower and stronger wedge: manager-led deal risk inspection before forecast calls.
+“Unlock knowledge” is abstract. It does not name the cost of knowledge loss, slow ramp, repeated mistakes, or dependence on tribal experts.
 
 Fix:
 
-Lead with the painful moment: deal risk shows up too late.
+Lead with institutional knowledge disappearing during departures, reorgs, and handoffs.
 
-### Messaging issue
+### 2. Category mush
 
-Problem:
-
-"Modern sales teams" does not define a target audience.
-
-Why it matters:
-
-The best-fit audience is B2B SaaS revenue teams where frontline managers run pipeline reviews.
+“Intelligent knowledge management platform” makes the product sound like existing tools with AI added.
 
 Fix:
 
-Name the buyer/user workflow.
+Frame KnowledgeWeave around institutional knowledge continuity, not knowledge management.
 
-### Evidence issue
+### 3. Generic AI claim
 
-Problem:
-
-"Close more deals with confidence" is not supported.
-
-Why it matters:
-
-The available proof supports reduced prep time and better explanations, not closed-won improvement.
+“with AI” is not a reason to care.
 
 Fix:
 
-Use the proof available: 3 hours to 75 minutes per manager.
+Explain the mechanism: captures living context from meetings, docs, Slack, and projects; builds a living graph; surfaces role/task-specific context.
 
-### Voice issue
+### 4. Missing proof
 
-Problem:
-
-"Cutting-edge AI" and "streamline workflows" are generic AI tells.
-
-Why it matters:
-
-Buyers have heard this language from every AI vendor.
+The beta ramp result is stronger than the copy.
 
 Fix:
 
-Use customer language: too late, show its work, where to spend the next hour.
+Use a careful proof line:
 
-## Before and after
+> In one beta, a customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks.
 
-### Before
+### 5. Privacy concern under-addressed
 
-> Unlock AI-powered revenue intelligence for modern sales teams.
+Continuous listening could trigger surveillance concerns.
 
-Why it fails:
+Fix:
 
-- generic category language
-- no workflow
-- no pain
-- no buyer specificity
-- no differentiation
+Mention approved sources, role-based visibility, source citations, and employee-facing transparency in the product narrative.
 
-### After
-
-> Catch deal risk before the forecast call.
-
-Why it works:
-
-- names the pain
-- names the timing
-- names the workflow
-- sounds like a customer problem, not a vendor category
-
-## Recommended homepage hero
+## Improved copy
 
 Headline:
 
-> Catch deal risk before the forecast call.
+> Capture institutional knowledge before it walks out the door.
 
 Subhead:
 
-> PipelineGuard's AI Deal Risk Assistant shows frontline managers what changed, why a deal is at risk, and what to do next — so teams can inspect pipeline before deals slip.
+> KnowledgeWeave turns meetings, docs, Slack threads, and project updates into a living knowledge graph that shows every employee what they need to know for their role and current work.
 
 Proof line:
 
-> In beta, one customer reduced pipeline review prep time from 3 hours to 75 minutes per manager.
+> In one beta, a customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks.
 
-CTA:
+## Reviewer scorecard
 
-> See how deal risk is explained
+| Dimension | Draft | Revised |
+| --- | --- | --- |
+| Specificity | Low | High |
+| Buyer pain | Weak | Strong |
+| Differentiation | Weak | Clearer |
+| Proof | Missing | Present but qualified |
+| AI clarity | Generic | Mechanism-based |
+| Risk handling | Missing | Needs privacy section in full page |
 
-## Rejected rewrite options
+## Final reviewer note
 
-### Rejected: Predict every deal with AI confidence
+The strongest version of KnowledgeWeave is not “AI knowledge management.”
 
-Why rejected:
-
-- overclaims prediction
-- black-box AI feel
-- unsupported by proof
-
-### Rejected: The AI copilot for revenue teams
-
-Why rejected:
-
-- too broad
-- crowded language
-- does not specify workflow
-
-### Rejected: Close more deals with intelligent forecasting
-
-Why rejected:
-
-- unsupported outcome
-- generic phrase
-- misses manager coaching value
-
-## Final review checklist
-
-The stronger copy passes because it:
-
-- starts with customer pain
-- names the workflow
-- preserves explainability
-- avoids unsupported revenue claims
-- uses proof the team actually has
-- differentiates from dashboards and magic scores
-- gives sales a concrete story
-
-## PMM reviewer conclusion
-
-The original copy was not bad because it was poorly written. It was bad because it was strategically average.
-
-The revised copy is stronger because it is specific, customer-backed, and constrained by evidence.
+It is a continuity system for preserving the context that makes teams productive after people leave, join, reorganize, or inherit work.

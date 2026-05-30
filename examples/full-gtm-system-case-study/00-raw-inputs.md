@@ -1,246 +1,175 @@
 # 00. Raw Inputs
 
-Strong PMM work rarely starts with a clean brief. It starts with fragments: sales notes, beta feedback, product claims, customer objections, launch constraints, and weak copy.
+Strong PMM work rarely starts with a clean brief. It starts with fragments: founder language, customer calls, product notes, sales objections, beta feedback, and draft copy that sounds too generic.
 
 ## Company
 
-PipelineGuard
+KnowledgeWeave
 
 ## Product
 
-AI Deal Risk Assistant
+KnowledgeWeave continuously listens to meetings, reads documents, Slack threads, and project updates, then automatically builds and maintains a living knowledge graph.
 
-## Market
+It surfaces the exact knowledge someone needs, exactly when they need it — personalized to their role, team, and current task.
 
-B2B revenue teams at mid-market and enterprise SaaS companies.
+## Tagline from founder
 
-## Product context
+> The AI that captures institutional knowledge before it walks out the door.
 
-PipelineGuard helps revenue teams inspect pipeline quality and forecast risk. The AI Deal Risk Assistant analyzes CRM fields, opportunity history, call summaries, email/calendar activity, stakeholder engagement, next steps, and forecast changes.
+## Key capabilities
 
-It then:
+- Real-time knowledge graph that updates itself
+- Auto-tagging and connecting of tacit knowledge
+- Personalized “what you should know right now” feed
+- Smart surfacing during meetings or when writing docs
+- Knowledge health score for teams and the company
 
-- flags risky opportunities
-- explains what changed
-- shows evidence behind the risk
-- recommends manager coaching actions
-- creates deal-risk summaries for forecast calls
-- lets RevOps configure risk signals and visibility
-
-## Target audience hypothesis
+## Target buyer hypotheses
 
 Primary buyer:
-
-- VP Sales
-- Chief Revenue Officer
-
-Daily user:
-
-- Frontline sales manager
+- Chief People Officer
+- VP People / Talent
+- COO at scaling companies
 
 Influencers:
+- Heads of Enablement
+- Operations leaders
+- Knowledge Management / IT leaders
+- Department leaders with high ramp burden
 
-- RevOps
-- Sales enablement
-- Sales reps
-- Finance / CFO
+Primary user:
+- New hires
+- Managers onboarding new team members
+- Employees taking over projects
+- Teams affected by reorgs, departures, or rapid growth
 
-Possible blockers:
+## Current weak positioning
 
-- CRM admin
-- Legal/security
-- Sales reps worried about surveillance
-- Managers skeptical of AI recommendations
+> KnowledgeWeave is an AI-powered knowledge management platform that uses machine learning to capture, organize, and surface enterprise information across your company.
 
-## Business goal
+Why this is weak:
+- sounds like every AI knowledge base
+- starts with technology, not business pain
+- hides the emotional stakes of losing “how we actually do things”
+- does not say who urgently needs it
+- does not explain why existing docs/search/wikis fail
 
-Launch next quarter in a way that:
+## Product notes from founder
 
-- creates new pipeline
-- gives sales a credible AI story
-- helps existing customers adopt the workflow
-- avoids generic AI positioning
-- avoids unsupported claims about forecast accuracy or win-rate improvement
+- “We are not trying to be another wiki.”
+- “Most company knowledge is not in docs. It is in meetings, Slack threads, decisions, tradeoffs, and people’s heads.”
+- “The painful moment is when someone leaves and everyone realizes they were the system.”
+- “Search only works if you know what to search for. New employees usually do not.”
+- “We can show which teams have dangerous knowledge concentration.”
+- “A team can see where knowledge is decaying, missing, or trapped with one person.”
+- “The feed should feel like: here is what you need to know this week to do your job.”
+
+## Beta customer notes
+
+### Call 1: VP People, 1,200-person SaaS company
+
+> “Our onboarding program looks good on paper, but the real learning happens through side conversations. If a new PM joins after the old PM leaves, they inherit docs but not judgment.”
+
+> “It takes six months before a new hire knows who to ask, which docs are outdated, and which decisions are still true.”
+
+> “We keep saying we need better documentation, but nobody has time to write the document after the decision is made.”
+
+### Call 2: COO, 850-person fintech company
+
+> “The expensive mistakes are repeats. Someone solves a problem in Q1, another team runs into it again in Q3, and nobody knows the answer already exists.”
+
+> “Every reorg creates amnesia. The boxes move, and suddenly nobody knows why the process works the way it does.”
+
+> “Our knowledge risk is invisible until someone leaves.”
+
+### Call 3: Head of Enablement, 600-person cybersecurity company
+
+> “New reps can learn the pitch. What takes forever is learning the exceptions — which customers care about which proof points, what legal hates, which competitor claims are landmines.”
+
+> “Our LMS tells people what we wanted them to know. It does not tell them what they need to know right now.”
+
+### Call 4: VP Engineering, 1,500-person infrastructure company
+
+> “We have architecture docs. The missing part is why we chose one path over another.”
+
+> “The person who knows the migration history just left. Now every planning meeting starts with archaeology.”
+
+> “I do not need a chatbot that summarizes Confluence. I need a system that connects decisions, owners, constraints, and current work.”
+
+### Call 5: Chief Customer Officer, 400-person vertical SaaS company
+
+> “When a CSM leaves, the account does not just lose a relationship. We lose account context, stakeholder preferences, implementation history, and all the little warnings that never made it into Salesforce.”
+
+> “The new CSM spends the first quarter trying not to look uninformed.”
+
+### Call 6: HR Ops leader, 2,000-person healthcare technology company
+
+> “Our onboarding survey says people are overwhelmed. They get too much generic information and not enough role-specific context.”
+
+> “Everyone tells new hires to search the wiki. But the wiki has five versions of the answer.”
+
+### Call 7: CFO, 900-person B2B services company
+
+> “Slow ramp has a real cost, but it hides in manager time, rework, delayed projects, and missed handoffs.”
+
+> “If you could show me where knowledge is concentrated with one or two people, I would treat that like operational risk.”
 
 ## Sales notes
 
-### Opportunity 1: VP Sales, 900-person SaaS company
+Common objections:
+- “We already have Notion / Confluence / Guru.”
+- “Our employees will worry about surveillance.”
+- “How do we know the graph is accurate?”
+- “Who owns the knowledge graph?”
+- “Is this HR, IT, Enablement, or Ops budget?”
+- “We do not want another destination employees have to remember.”
 
-- Forecast calls are too subjective.
-- Every manager has a different definition of commit.
-- Reps update CRM late.
-- Managers do not know what changed until the weekly forecast meeting.
-- Current workaround: spreadsheet inspection plus manager-by-manager deal reviews.
+Sales observations:
+- Buyers react strongly to “before it walks out the door.”
+- “Knowledge graph” is interesting to technical buyers but abstract to business buyers.
+- “Onboarding” is a hook, but the bigger pain is continuity through departures, reorgs, and fast growth.
+- Privacy and trust need to be addressed directly.
+- The strongest demo moment is showing a new hire preparing for a meeting and getting context they did not know to ask for.
 
-Quote:
+## Beta proof
 
-> By the time a deal shows up as risky in the forecast call, it is usually already too late.
+Early beta signals:
+- One customer reduced time for new customer success managers to handle accounts independently from 14 weeks to 8 weeks.
+- One engineering team identified 23 undocumented ownership gaps before a planned reorg.
+- In a pilot, 71% of new hires clicked at least one recommended “what you should know now” item in their first two weeks.
+- Managers reported fewer repeated onboarding questions in weeks 3-6.
 
-### Opportunity 2: CRO, 1,500-person security company
-
-- They have more pipeline data than ever, but managers still rely on gut feel.
-- Sales leaders want early warning, not another dashboard.
-- Skeptical of black-box AI scoring because reps and managers will not trust it.
-
-Quote:
-
-> I do not need a magic score. I need to know what changed, why it matters, and what my manager should do next.
-
-### Opportunity 3: RevOps leader, 600-person infrastructure company
-
-- Forecast categories are inconsistent across teams.
-- CRM hygiene projects have failed because reps see them as admin work.
-- Wants AI to summarize deal risk from activity and notes.
-- Needs reasoning to be auditable.
-
-Quote:
-
-> If the AI cannot show its work, our managers will ignore it.
-
-### Opportunity 4: VP Sales, 400-person vertical SaaS company
-
-- Managers spend too much time preparing for pipeline reviews.
-- They want the system to surface which deals deserve coaching time.
-- They already have dashboards, but dashboards do not tell managers what to do.
-
-Quote:
-
-> My managers do not need more reports. They need to know where to spend their next hour.
-
-### Opportunity 5: Sales enablement leader, 2,000-person SaaS company
-
-- New managers struggle to inspect deals consistently.
-- Enablement wants repeatable coaching guidance based on deal signals.
-- Best managers know what to look for, but that judgment is not systematized.
-
-Quote:
-
-> Our best managers know what to look for. We need to make that inspectable for everyone else.
-
-### Opportunity 6: CFO influence, 1,100-person SaaS company
-
-- Forecast misses create hiring and spending problems.
-- Finance does not trust late-quarter optimism from sales.
-
-Quote:
-
-> The business impact is not just missed bookings. It is that the company makes decisions on a number that keeps moving.
-
-### Opportunity 7: Enterprise sales manager, 700-person SaaS company
-
-- Concerned that AI risk alerts could create noise.
-- Wants fewer, better signals.
-- Would only trust recommendations if they map to real deal behavior.
-
-Quote:
-
-> If this flags every stale opp, managers will tune it out in a week.
-
-### Opportunity 8: RevOps director, 1,900-person SaaS company
-
-- Wants to configure risk signals by segment and sales motion.
-- Enterprise deals and SMB deals should not use the same inspection logic.
-- Needs an audit trail for why a risk was surfaced.
-
-Quote:
-
-> A risk model we cannot tune becomes another system people work around.
-
-## Beta feedback
-
-### Beta customer A
-
-- 800-person SaaS company.
-- Used the assistant in weekly manager pipeline reviews.
-- Reduced pipeline review prep time from 3 hours to 75 minutes per manager.
-- Managers said the most useful output was the explanation behind the risk, not the risk label itself.
-
-### Beta customer B
-
-- 1,300-person SaaS company.
-- Found that "no executive engagement in 21 days" was a stronger signal than generic activity volume.
-- Asked for exportable summaries for QBR and forecast calls.
-
-### Beta customer C
-
-- 500-person SaaS company.
-- Reps initially distrusted the AI because they thought it was a surveillance tool.
-- Trust improved when managers framed it as coaching support.
-- Recommendations worked best when tied to concrete next actions.
-
-## Product brief
-
-Capabilities:
-
-- Risk detection across CRM fields, opportunity history, activity, call summaries, stakeholder engagement, next steps, and forecast changes
-- Reason codes for each risk signal
-- Explanation of what changed since last inspection
-- Recommended manager coaching actions
-- Forecast-call summary export
-- Salesforce and HubSpot integrations
-- RevOps-configurable risk signals
-- Admin visibility controls
-
-Product team's preferred language:
-
-- AI-powered revenue intelligence
-- Predictive forecasting
-- Automated risk detection
-- Sales productivity
-- Modern revenue teams
-
-PMM concern:
-
-This language is category-generic. It leads with AI and automation instead of the buyer's real pain.
-
-## Weak landing page draft
-
-Headline:
-
-> Unlock AI-powered revenue intelligence for modern sales teams.
-
-Subhead:
-
-> PipelineGuard uses cutting-edge AI to streamline forecasting workflows, boost sales productivity, and help teams close more deals with confidence.
-
-Why it is weak:
-
-- It could belong to almost any revenue AI company.
-- It does not name the buyer's workflow.
-- It does not say what risk means.
-- It overclaims "close more deals" without evidence.
-- It misses the strongest customer language: too late, show its work, next hour, magic score.
+Proof constraints:
+- No public customer names yet.
+- Ramp-time proof is promising but early.
+- No broad productivity claim should be made yet.
+- Privacy controls must be explained clearly before launch.
 
 ## Launch constraints
 
-- Launch target: next quarter
-- Only one quantified beta proof point approved for use internally
-- No public customer quote yet
-- Product can support a strong demo
-- Sales needs enablement before launch
-- RevOps needs technical/admin messaging
-- Legal wants careful AI claims
-- CEO wants a visible AI story but does not want hype
+- Product is entering beta-to-GA transition.
+- Founder wants a strong public launch.
+- Sales needs a sharper narrative for People, Ops, and Enablement buyers.
+- Product team wants to lead with “living knowledge graph.”
+- Marketing wants a homepage hero, launch narrative, sales deck, demo storyline, and proof package.
 
-## Evidence inventory
+## Draft copy to review
 
-Customer-backed:
+Headline:
 
-- Deal risk appears too late.
-- Managers want to know what changed and what to do next.
-- Black-box AI scores are not trusted.
-- Manager prep time dropped from 3 hours to 75 minutes in one beta.
-- Rep trust depends on framing the product as coaching support.
+> Unlock your company’s knowledge with AI.
 
-Inferred:
+Subhead:
 
-- The strongest wedge is frontline manager deal inspection.
-- CRO pain should ladder to forecast confidence and business planning.
-- RevOps messaging should focus on configurability and auditability.
+> KnowledgeWeave is an intelligent knowledge management platform that captures, connects, and delivers the information your teams need to work smarter.
 
-Needs validation:
+CTA:
 
-- Whether the assistant improves forecast accuracy.
-- Whether it reduces slipped deals.
-- Whether it increases win rates.
-- Whether finance is a primary launch audience or secondary influence.
+> Request a demo
+
+Why this draft is weak:
+- generic “AI knowledge” language
+- no urgent business pain
+- no clear buyer
+- no emotional stakes
+- no differentiation from search, wiki, or chatbot tools

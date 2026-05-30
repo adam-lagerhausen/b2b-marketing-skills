@@ -4,176 +4,147 @@ Skill used: `voice-of-customer-synthesis`
 
 ## Executive summary
 
-The customer evidence points to a sharper problem than "AI revenue intelligence."
+The customer evidence points to a sharper problem than “finding company knowledge.”
 
-The real problem is this:
+The real problem is knowledge continuity: companies lose critical operating context when experienced employees leave, teams reorganize, or new hires inherit work without the judgment behind it.
 
-> Revenue teams find deal risk too late, and managers lack a consistent, explainable way to inspect which deals need coaching before forecast calls.
+Customers are not asking for a better wiki. They are trying to avoid expensive amnesia.
 
-The strongest customer language is about timing, trust, explanation, and manager action.
+## Core customer pains
 
-## Top customer-backed findings
+### 1. Knowledge disappears when people leave
 
-| Finding | Evidence | Confidence | PMM implication |
-| --- | --- | --- | --- |
-| Deal risk appears too late | "By the time a deal shows up as risky in the forecast call, it is usually already too late." | High | Lead with catching risk before forecast calls. |
-| Managers do not want another dashboard | "My managers do not need more reports." | High | Position around decision support and coaching, not reporting. |
-| AI must explain itself | "If the AI cannot show its work, our managers will ignore it." | High | Lead with explainable risk, reason codes, and evidence. |
-| Magic scores are not trusted | "I do not need a magic score." | High | Avoid black-box scoring language. |
-| The best manager behavior is inconsistent | "Our best managers know what to look for." | Medium-high | Position as making great deal inspection repeatable. |
-| Forecast issues affect the whole company | "The company makes decisions on a number that keeps moving." | Medium | Ladder from manager workflow to business planning confidence. |
-| Too many noisy alerts would kill adoption | "Managers will tune it out in a week." | Medium | Emphasize fewer, better, configurable signals. |
-| Configurability matters to RevOps | "A risk model we cannot tune becomes another system people work around." | Medium | Build RevOps-specific message around controls and auditability. |
+Evidence:
 
-## Pain hierarchy
+> “Our knowledge risk is invisible until someone leaves.”
 
-### Pain 1: Risk is discovered too late
-
-Customers are not saying they lack dashboards. They are saying risk becomes visible after intervention is already difficult.
-
-Customer language:
-
-- "Too late"
-- "By the time it shows up"
-- "Forecast call"
-- "Champion went dark"
-- "Procurement slipped"
+> “The person who knows the migration history just left. Now every planning meeting starts with archaeology.”
 
 PMM implication:
 
-The core promise should be about earlier, explainable intervention.
+Frame the problem around risk and continuity, not documentation quality.
 
-### Pain 2: Managers waste time inspecting the wrong things
+### 2. New hires get documents, not judgment
 
-Managers spend hours preparing for pipeline reviews because the system does not tell them where their judgment is most needed.
+Evidence:
 
-Customer language:
+> “If a new PM joins after the old PM leaves, they inherit docs but not judgment.”
 
-- "Where to spend their next hour"
-- "More reports"
-- "Which deals deserve coaching time"
+> “It takes six months before a new hire knows who to ask, which docs are outdated, and which decisions are still true.”
 
 PMM implication:
 
-The value is not automation alone. The value is focus.
+The onboarding story should focus on role-specific context and ramp to independent productivity, not generic learning content.
 
-### Pain 3: Forecast process is inconsistent
+### 3. Teams repeat mistakes because prior answers are buried
 
-Different managers inspect deals differently. That makes forecast confidence inconsistent.
+Evidence:
 
-Customer language:
-
-- "Different definition of commit"
-- "Best managers know what to look for"
-- "Make that inspectable"
+> “Someone solves a problem in Q1, another team runs into it again in Q3, and nobody knows the answer already exists.”
 
 PMM implication:
 
-The product should be positioned as making deal inspection repeatable across managers.
+Position KnowledgeWeave as a system for preventing repeated work, not just retrieving documents.
 
-### Pain 4: AI trust is fragile
+### 4. Existing systems capture formal knowledge but miss tacit knowledge
 
-Customers are open to AI, but they reject black-box predictions.
+Evidence:
 
-Customer language:
+> “We have architecture docs. The missing part is why we chose one path over another.”
 
-- "Magic score"
-- "Show its work"
-- "Managers will ignore it"
-- "Risk model we cannot tune"
+> “Most company knowledge is not in docs. It is in meetings, Slack threads, decisions, tradeoffs, and people’s heads.”
 
 PMM implication:
 
-The messaging must emphasize explainability, evidence, controls, and manager judgment.
+Differentiate against wikis, document repositories, and search by emphasizing decisions, context, tradeoffs, and current work.
 
-## Status quo alternatives
+### 5. Employees do not know what to search for
 
-The real alternative is not only another vendor.
+Evidence:
 
-The current way is:
+> “Search only works if you know what to search for. New employees usually do not.”
 
-- weekly forecast calls
-- CRM dashboards
-- spreadsheet inspection
-- manager gut feel
-- rep self-reporting
-- late-stage deal reviews
-- RevOps hygiene projects
-- manual coaching notes
+> “Everyone tells new hires to search the wiki. But the wiki has five versions of the answer.”
 
-The old way is slow, subjective, inconsistent, and often too late.
+PMM implication:
 
-## Buying triggers
+The personalized feed is not a feature detail. It is central to the value: the product surfaces what someone should know before they know to ask.
 
-- A missed forecast that surprises the executive team
-- A quarter where deals slip late
-- New managers struggling to inspect pipeline consistently
-- RevOps standardizing sales process
-- CRO pressure from finance or board
-- CEO asks why forecast changed late in quarter
-- Sales enablement wants better manager coaching motions
+## Jobs to be done
 
-## Objections and response direction
+Functional job:
 
-### Is this just another dashboard?
+When people join, leave, move teams, or inherit projects, help them understand the decisions, context, owners, and unwritten rules they need to move work forward without starting from scratch.
 
-No. Dashboards show data. PipelineGuard explains what changed, why it matters, and what managers should do next.
+Economic job:
 
-### Will managers trust AI risk scores?
+Reduce slow ramp, repeated mistakes, duplicated work, manager burden, and project delays caused by lost or fragmented institutional knowledge.
 
-Do not ask them to trust a magic score. Show reason codes, supporting evidence, and configurable signals.
+Emotional job:
 
-### Will reps feel monitored?
+Help employees feel less lost and help leaders feel less exposed to hidden knowledge risk.
 
-Frame the assistant as manager coaching support, not rep surveillance.
+## Real alternative
 
-### Will this create more CRM admin work?
+The real alternative is not another knowledge platform vendor.
 
-Position around reducing manual inspection and prep, not adding fields.
+The real alternative is:
 
-### Can RevOps tune it?
+- Slack archaeology
+- outdated wiki pages
+- asking the same senior people repeatedly
+- tribal knowledge
+- meeting recordings nobody watches
+- onboarding checklists that miss team-specific context
+- hoping the person who knows still works there
 
-Make configurability and auditability visible in RevOps-facing messaging.
+## Exact language to reuse
 
-## Proof inventory
+Strong customer phrases:
 
-Customer-backed proof:
+- “before it walks out the door”
+- “they inherit docs but not judgment”
+- “every reorg creates amnesia”
+- “the real learning happens through side conversations”
+- “search only works if you know what to search for”
+- “the person who knows just left”
+- “what they need to know right now”
+- “knowledge risk is invisible until someone leaves”
 
-- One beta customer reduced pipeline review prep from 3 hours to 75 minutes per manager.
-- Managers valued explanations more than labels.
-- Adoption improved when framed as coaching support.
-- "No executive engagement in 21 days" was a meaningful risk signal for one beta customer.
+## Objections and messaging implications
 
-Unsupported claims:
+### Objection: “We already have Notion / Confluence / Guru.”
 
-- Improves forecast accuracy
-- Reduces slipped deals
-- Increases win rates
-- Saves pipeline
-- Guarantees revenue growth
+Response direction:
+
+Those tools store documented knowledge. KnowledgeWeave captures and connects living context across meetings, messages, decisions, projects, and docs.
+
+### Objection: “Is this surveillance?”
+
+Response direction:
+
+Address privacy early. Emphasize controls, approved sources, role-based visibility, and knowledge health rather than employee monitoring.
+
+### Objection: “Who owns this?”
+
+Response direction:
+
+The strongest buying coalition is People + Ops + Enablement, with IT/security as approvers. The business case can start with onboarding/ramp and expand to continuity risk.
 
 ## Messaging implications
 
-Use language like:
+Lead with:
 
-- Catch deal risk before the forecast call
-- Show managers what changed
-- Explain why a deal is at risk
-- Know where to spend the next coaching hour
-- Make deal inspection repeatable
-- Explainable AI for pipeline reviews
+- knowledge loss
+- slow ramp
+- repeated mistakes
+- hidden dependency on experienced employees
+- role-specific context surfaced in the flow of work
 
-Avoid language like:
+Avoid leading with:
 
-- AI-powered revenue intelligence
-- Cutting-edge AI
-- Predict revenue with confidence
-- Close more deals automatically
-- Streamline sales workflows
-- Autonomous sales management
-
-## PMM takeaway
-
-The product should not be positioned as an AI dashboard or revenue intelligence platform.
-
-It should be positioned as an explainable AI assistant for manager-led deal inspection.
+- AI knowledge management
+- enterprise search
+- productivity platform
+- single source of truth
+- machine learning-powered knowledge graph

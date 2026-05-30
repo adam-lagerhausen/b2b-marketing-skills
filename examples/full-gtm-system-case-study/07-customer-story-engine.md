@@ -6,123 +6,77 @@ The goal is to turn beta evidence into usable proof without inventing claims.
 
 ## Proof constraint
 
-The team has one quantified proof point:
+KnowledgeWeave has useful beta signals but no named public customers yet.
 
-> One beta customer reduced pipeline review prep time from 3 hours to 75 minutes per manager.
+The proof package should make the evidence credible without overstating it.
 
-This is useful, but narrow. It supports productivity and workflow value. It does not yet support forecast accuracy, revenue growth, or win-rate claims.
+## Best current proof point
 
-## Customer proof brief
+> In beta, one customer reduced time for new Customer Success Managers to handle accounts independently from 14 weeks to 8 weeks.
 
-Customer:
+Why this proof works:
 
-- Anonymous beta customer
-- 800-person B2B SaaS company
-- Sales-led GTM
-- Frontline managers run weekly pipeline reviews
+- tied to a specific role
+- tied to an observable workflow
+- connected to a real business pain
+- concrete enough for sales and launch copy
 
-Before:
+What not to imply:
 
-Managers spent roughly 3 hours preparing for weekly pipeline reviews. Inspection quality varied by manager. Risk often surfaced in the forecast call instead of before it.
+- every customer will see this result
+- onboarding time will always be cut by 40%+
+- KnowledgeWeave alone caused the entire improvement
 
-Trigger:
+## Supporting proof points
 
-Revenue leadership wanted earlier visibility into deal risk and a more consistent manager inspection process.
+- One engineering team identified 23 undocumented ownership gaps before a planned reorg.
+- In a pilot, 71% of new hires clicked at least one recommended context item in their first two weeks.
+- Managers reported fewer repeated onboarding questions in weeks 3-6.
 
-Product role:
+## Proof hierarchy
 
-PipelineGuard flagged risky opportunities, explained the underlying signals, and created summaries managers could use in pipeline reviews.
+### Tier 1: Use in hero-adjacent proof line
 
-Outcome:
+> In one beta, a customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks.
 
-Pipeline review prep time dropped from 3 hours to 75 minutes per manager.
+### Tier 2: Use in sales deck and demo
 
-Qualitative learning:
+> One engineering team used KnowledgeWeave to identify 23 undocumented ownership gaps before a reorg.
 
-Managers valued the explanation behind the risk more than the risk label itself.
+### Tier 3: Use as directional adoption signal
 
-## Case study angle
+> In pilot onboarding cohorts, 71% of new hires clicked recommended context in their first two weeks.
 
-Recommended angle:
+## Customer story draft
 
-> How one SaaS revenue team cut pipeline review prep time by helping managers inspect deal risk earlier.
+Working title:
 
-Why this works:
+> How a scaling SaaS team helped new CSMs inherit account context faster
 
-- It is specific.
-- It uses the proof available.
-- It avoids overclaiming revenue impact.
-- It ties directly to the manager workflow.
+Story arc:
+
+1. A growing CS organization had new CSMs inheriting complex accounts from departing or promoted team members.
+2. The formal handoff process captured tasks and account facts, but not enough context: stakeholder preferences, past objections, implementation history, and internal owner knowledge.
+3. KnowledgeWeave connected meeting notes, Slack discussions, account docs, and project updates into a role-specific handoff view.
+4. New CSMs used recommended context during onboarding, meeting prep, and account planning.
+5. The team reduced time to independent account ownership from 14 weeks to 8 weeks in beta.
 
 ## Sales proof snippet
 
-Use this in sales decks and talk tracks:
+> “The issue was not that account information did not exist. It was scattered across meetings, docs, Slack, and people’s memories. KnowledgeWeave helped new CSMs inherit context faster, reducing ramp to independent account ownership from 14 weeks to 8 weeks in one beta.”
 
-> In beta, one B2B SaaS customer used PipelineGuard in weekly manager pipeline reviews and reduced prep time from 3 hours to 75 minutes per manager. Managers said the explanation behind each risk was more useful than the risk label itself.
+## Claims policy
 
-## Launch proof snippet
+Safe:
 
-Use this in launch copy:
+- “In one beta...”
+- “helped reduce...”
+- “surfaced relevant context...”
+- “identified ownership gaps...”
 
-> Early beta teams are using PipelineGuard to reduce manual pipeline review prep and give managers clearer deal-risk explanations before forecast calls.
+Avoid:
 
-## Homepage proof line
-
-Use this only if legal/customer approval allows anonymous beta proof:
-
-> In beta, one customer reduced pipeline review prep time from 3 hours to 75 minutes per manager.
-
-## Claims to avoid
-
-Do not claim:
-
-- The customer improved forecast accuracy.
-- The customer saved at-risk deals.
-- The customer increased win rate.
-- The customer grew revenue because of PipelineGuard.
-- PipelineGuard guarantees pipeline outcomes.
-
-## Questions to ask customer for stronger proof
-
-To build a stronger public case study, ask:
-
-1. What was the old pipeline review process?
-2. How many managers used PipelineGuard?
-3. How often were risk summaries reviewed?
-4. What types of risk were most commonly surfaced?
-5. Did managers change coaching behavior?
-6. Did any deals move forecast category earlier because of the assistant?
-7. Did forecast accuracy, slippage, or pipeline conversion change?
-8. Can we use a named quote?
-
-## Proof maturity path
-
-### Current proof
-
-Workflow efficiency:
-
-- Prep time reduction
-- Manager qualitative feedback
-
-### Next proof to pursue
-
-Behavior change:
-
-- More at-risk deals reviewed before forecast calls
-- More consistent manager inspection
-- Increased coaching actions logged
-
-### Later proof
-
-Business outcome:
-
-- Reduced late-stage slippage
-- Improved forecast accuracy
-- Better pipeline conversion
-- Expansion impact
-
-## PMM decision
-
-Use the proof confidently, but narrowly.
-
-The strongest current proof is manager workflow improvement, not revenue impact.
+- “proven to cut onboarding time in half”
+- “guaranteed ramp reduction”
+- “captures all institutional knowledge”
+- “eliminates repeated questions”

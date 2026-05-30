@@ -2,192 +2,141 @@
 
 Skill used: `demo-storyline`
 
-The demo should not be a feature tour. It should prove the sales narrative.
+The demo should not be a feature tour. It should prove the story: companies lose institutional knowledge because context lives in work, not just documents.
 
 ## Demo principle
 
-Start with the buyer's painful workflow, not the product UI.
+Start with the painful workflow, then show how KnowledgeWeave changes it.
 
-The buyer pain:
+## Demo persona
 
-> A deal is still marked commit, but the real risk signals are already visible if the manager knows where to look.
-
-## Demo audience
-
-Primary demo audience:
-
-- VP Sales
-- CRO
-- Frontline sales managers
-
-Secondary audience:
-
-- RevOps
-- Sales enablement
-
-## Demo setup
+Maya, a new Customer Success Manager joining a scaling SaaS company.
 
 Scenario:
 
-A frontline sales manager is preparing for a weekly pipeline review. One enterprise opportunity is still marked commit in CRM, but PipelineGuard flags it as high risk.
+Maya has inherited 14 strategic accounts from a CSM who left. The accounts have years of history across Salesforce, Slack, meeting notes, support tickets, QBR decks, and internal docs.
 
-Deal context:
+## Before KnowledgeWeave
 
-- Opportunity: Northstar Analytics renewal + expansion
-- Amount: $480K
-- Stage: Procurement
-- Forecast category: Commit
-- Close date: End of quarter
-- Rep: Jordan Lee
-- Manager: Priya Shah
+Maya’s first week looks like this:
 
-## Discovery before demo
+- reads onboarding docs that are mostly generic
+- searches Confluence and finds outdated account playbooks
+- asks her manager for context repeatedly
+- joins a customer call without knowing the implementation history
+- misses a sensitive stakeholder issue from six months ago
+- spends weeks learning which information is still true
 
-Ask:
+Demo setup line:
 
-1. How do managers prepare for pipeline reviews today?
-2. What signals usually tell you a deal is at risk before the forecast changes?
-3. How much time do managers spend preparing for forecast calls?
-4. What would make your team trust an AI-generated risk signal?
-5. Are risk signals the same across enterprise and mid-market deals?
+> This is not a documentation problem. The information exists. Maya just does not know what matters yet.
 
-## Demo arc
+## Demo flow
 
-### Moment 1: Start in the manager workflow
+### Moment 1: Personalized “what you should know now” feed
 
 Show:
 
-The manager opens the weekly pipeline review view.
+Maya opens KnowledgeWeave and sees a feed personalized to her role, accounts, team, and first-week tasks.
 
-Narration:
+The feed includes:
 
-> This starts where managers already work: deciding which deals need attention before the forecast call.
+- account transition notes
+- key stakeholders
+- unresolved implementation risks
+- prior QBR decisions
+- product limitations previously discussed
+- internal owner map
 
-Buyer point:
+Message:
 
-This is not another analytics dashboard. It fits the inspection workflow.
+> KnowledgeWeave does not make Maya search through company memory. It brings the most relevant context to her.
 
-### Moment 2: Surface the risky commit deal
-
-Show:
-
-Northstar Analytics is marked commit but flagged as high risk.
-
-Risk summary:
-
-- No executive engagement in 21 days
-- Next step changed from "procurement review" to "follow up soon"
-- Close date moved twice in 30 days
-- Champion engagement dropped sharply
-
-Narration:
-
-> The important thing is not that the AI labeled it risky. The important thing is that it shows what changed.
-
-Buyer point:
-
-The product catches risk before the forecast call exposes it.
-
-### Moment 3: Show the evidence
+### Moment 2: Account handoff knowledge graph
 
 Show:
 
-Open the risk explanation panel.
+A visual graph connecting:
 
-Evidence:
+- customer stakeholders
+- internal owners
+- previous decisions
+- open risks
+- support patterns
+- renewal timeline
+- related Slack discussions
 
-- Last executive meeting: 24 days ago
-- Mutual close plan missing procurement owner
-- Champion email engagement down 60%
-- Security review not confirmed
-- Rep notes mention "waiting to hear back"
+Message:
 
-Narration:
+> The graph connects formal docs with the tacit context usually trapped in conversations.
 
-> Managers do not have to trust a black box. They can inspect the signal and decide whether the risk is real.
-
-Buyer point:
-
-Explainability builds trust.
-
-### Moment 4: Recommend coaching action
+### Moment 3: Smart surfacing during meeting prep
 
 Show:
 
-PipelineGuard recommends manager actions:
+Maya opens a prep doc for an upcoming customer meeting. KnowledgeWeave suggests:
 
-1. Confirm whether procurement has opened security review.
-2. Ask rep to re-engage economic buyer.
-3. Rebuild mutual close plan with named owners.
-4. Move deal from commit if no confirmed procurement date by Friday.
+- “This customer objected to pricing changes in the last renewal.”
+- “Legal approved this contract exception in Q2.”
+- “Implementation risk: data migration delay mentioned in three prior calls.”
+- “Ask Jordan in Solutions Engineering if the API limitation comes up.”
 
-Narration:
+Message:
 
-> The assistant focuses manager judgment. It does not replace it.
+> The product surfaces knowledge at the moment it can change the outcome.
 
-Buyer point:
-
-The output is actionable coaching, not passive reporting.
-
-### Moment 5: Generate forecast-call summary
+### Moment 4: Manager view of knowledge health
 
 Show:
 
-Export summary:
+Maya’s manager sees a team knowledge health dashboard:
 
-- Risk reason
-- Supporting evidence
-- Manager action
-- Rep owner
-- Next inspection date
+- 7 accounts have incomplete handoff context
+- 3 process areas depend on one departing employee
+- 12 stale docs are still being recommended
+- onboarding cohort engagement with recommended context is 71%
 
-Narration:
+Message:
 
-> This becomes the manager's forecast-call note. Less prep, more consistency.
+> Leaders can see knowledge risk before it becomes a ramp problem or customer problem.
 
-Buyer point:
-
-The workflow reduces prep time and standardizes inspection.
-
-### Moment 6: Show RevOps controls
+### Moment 5: Privacy and controls
 
 Show:
 
-Admin settings for risk signals by segment.
+Admin settings:
 
-Narration:
+- approved data sources
+- excluded channels
+- role-based visibility
+- sensitive-topic controls
+- source citations
+- employee-facing transparency
 
-> RevOps can tune risk signals for enterprise and mid-market motions, so the model supports your process instead of forcing one generic definition of risk.
+Message:
 
-Buyer point:
-
-Configurability prevents the assistant from becoming another system people work around.
+> KnowledgeWeave is built to preserve company know-how without turning knowledge capture into surveillance.
 
 ## Demo close
 
-Recap:
+Before:
 
-PipelineGuard helps managers catch deal risk earlier, understand why it matters, and coach reps before deals slip.
+Maya inherits accounts, docs, and uncertainty.
 
-Close question:
+After:
 
-> If we looked at three deals that slipped last quarter, what signals would you expect to have appeared before the forecast changed?
+Maya inherits context: what happened, why it happened, who knows, what matters now, and where risk remains.
 
-## Demo mistakes to avoid
+## Demo claims to avoid
 
-Do not:
+Avoid saying:
 
-- Start with the AI model.
-- Start with dashboards.
-- Show every feature.
-- Claim the deal would definitely be saved.
-- Make the rep look like the problem.
-- Use generic sample data with no real sales motion.
+- “This replaces onboarding.”
+- “This captures everything automatically.”
+- “Employees never need to ask questions again.”
 
-Do:
+Say instead:
 
-- Start with the manager's weekly workflow.
-- Show what changed.
-- Show evidence.
-- Recommend action.
-- Tie back to forecast calls and coaching.
+- “This gives employees the context they need to ask better questions and ramp faster.”
+- “This preserves the knowledge most likely to disappear during transitions.”
+- “This shows leaders where knowledge risk is hiding.”

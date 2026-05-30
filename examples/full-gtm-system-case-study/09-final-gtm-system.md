@@ -4,66 +4,63 @@ This file collects the final outputs created by the workflow.
 
 ## Core strategy
 
-PipelineGuard should launch the AI Deal Risk Assistant as an explainable deal-risk inspection workflow for frontline sales managers, not as generic AI revenue intelligence.
+KnowledgeWeave should launch as an institutional knowledge continuity platform for scaling companies.
+
+The product should not be positioned as:
+
+- an AI wiki
+- enterprise search
+- a meeting summarizer
+- a generic knowledge base
+- a productivity chatbot
+
+The strongest frame:
+
+> Capture the “how we actually do things” knowledge that disappears when employees leave, teams reorganize, and new hires inherit work without context.
+
+## Target segment
+
+Scaling B2B companies with 400-3,000 employees where onboarding, reorgs, distributed work, and employee turnover create measurable ramp and continuity problems.
+
+## Primary buyer
+
+- VP People / Chief People Officer
+- COO
+- Head of Enablement
+
+## Real alternative
+
+Slack archaeology, stale wikis, meeting recordings, onboarding buddies, tribal knowledge, and asking the same experienced employees over and over.
 
 ## Positioning statement
 
-For B2B SaaS revenue teams that find deal risk too late, PipelineGuard's AI Deal Risk Assistant gives frontline managers explainable early warnings and coaching actions for at-risk opportunities, so teams can inspect pipeline consistently before deals slip.
-
-Unlike generic revenue dashboards or black-box AI scores, PipelineGuard shows what changed, why it matters, and what managers should do next.
-
-## One-liner
-
-Catch deal risk before the forecast call.
+KnowledgeWeave helps scaling companies preserve the “how we actually do things” knowledge that usually disappears when people leave, reorganize, or move teams. Instead of asking employees to search stale docs, KnowledgeWeave captures living context from the flow of work and surfaces what each person needs to know for their role and task.
 
 ## Homepage hero
 
 Headline:
 
-> Catch deal risk before the forecast call.
+> Capture institutional knowledge before it walks out the door.
 
 Subhead:
 
-> PipelineGuard's AI Deal Risk Assistant shows frontline managers what changed, why a deal is at risk, and what to do next — so teams can inspect pipeline before deals slip.
+> KnowledgeWeave turns meetings, docs, Slack threads, and project updates into a living knowledge graph that shows every employee what they need to know for their role and current work.
 
 Proof line:
 
-> In beta, one customer reduced pipeline review prep time from 3 hours to 75 minutes per manager.
+> In one beta, a customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks.
 
 CTA:
 
-> See how deal risk is explained
-
-## Primary audience
-
-VP Sales and CROs at B2B SaaS companies whose frontline managers run weekly pipeline or forecast reviews.
-
-## Primary user
-
-Frontline sales managers responsible for inspecting deals, coaching reps, and preparing forecast input.
-
-## Real alternative
-
-The old way:
-
-- CRM dashboards
-- spreadsheets
-- rep self-reporting
-- manager gut feel
-- manual deal reviews
-- late-stage forecast calls
-
-## Differentiated value
-
-PipelineGuard does not just flag risk. It explains what changed, why it matters, and what managers should do next.
+> See how KnowledgeWeave preserves company know-how
 
 ## Messaging pillars
 
 The three differentiated messaging pillars:
 
-1. Catch deal risk before the forecast call.
-2. Show managers where to spend their next coaching hour.
-3. Make AI risk signals explainable and configurable.
+1. Preserve knowledge before it walks out the door.
+2. Ramp employees with context, not just content.
+3. Find and fix hidden knowledge risk.
 
 ## Launch tier
 
@@ -71,90 +68,81 @@ Tier 2 campaign-level launch.
 
 Why:
 
-- meaningful product moment
-- strong buyer pain
+- meaningful cross-functional problem
+- strong customer language
 - useful beta proof
 - clear demo value
-- needs sales enablement and customer adoption support
+- needs sales enablement and trust/privacy objection handling
 
 Why not Tier 1:
 
-- proof is still narrow
-- no public customer quote yet
-- no quantified forecast accuracy impact
-- not yet a category-defining market shift
+- no public named customer yet
+- proof is promising but early
+- category education still needs more assets
 
 ## Launch narrative
 
-Forecast risk does not start in the forecast call. It starts when the champion goes quiet, the next step gets vague, procurement slips, or a manager misses the signal.
+Companies do not lose knowledge all at once. They lose it quietly: when experienced employees leave, teams reorganize, new hires inherit work, and the reasoning behind decisions never makes it into the wiki.
 
-PipelineGuard helps revenue teams catch those risks earlier by showing frontline managers what changed, why it matters, and what to do next.
+KnowledgeWeave captures institutional knowledge as work happens and turns it into role-specific context employees can use when they need it.
 
 ## Sales narrative
 
 The first-call sales story:
 
-1. Deal risk is showing up too late.
-2. More dashboards did not fix manager inspection.
-3. The best managers know what to look for.
-4. PipelineGuard makes deal inspection repeatable.
-5. Explainable AI shows the risk, evidence, and next action.
-6. Managers spend less time preparing and more time coaching.
+1. Scaling companies lose operating memory when people leave or teams change.
+2. Documentation captures content, but misses context.
+3. New hires do not know what they do not know.
+4. KnowledgeWeave captures living knowledge from the flow of work.
+5. Employees get the context they need for their role and current task.
+6. Leaders see hidden knowledge risk before it slows the business down.
 
 ## Demo arc
 
-1. Manager opens weekly pipeline review.
-2. Commit deal is flagged as high risk.
-3. PipelineGuard shows what changed.
-4. Manager inspects supporting evidence.
-5. Assistant recommends coaching action.
-6. Manager exports forecast-call summary.
-7. RevOps sees configurable risk controls.
+1. New CSM inherits complex customer accounts.
+2. KnowledgeWeave shows a role-specific “what you should know now” feed.
+3. The account handoff graph connects stakeholders, decisions, risks, docs, and internal owners.
+4. Smart surfacing adds relevant context while the CSM prepares for a meeting.
+5. Manager dashboard shows knowledge health and ownership gaps.
+6. Admin view shows privacy, approved sources, and role-based visibility.
 
 ## Proof package
 
 Current proof:
 
-> One beta customer reduced pipeline review prep time from 3 hours to 75 minutes per manager.
+> In one beta, a customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks.
 
-Use for:
+Supporting proof:
 
-- sales deck
-- launch page
-- customer proof one-pager
-- webinar intro
-
-Do not use for:
-
-- forecast accuracy claims
-- win-rate claims
-- revenue impact claims
+- engineering team identified 23 undocumented ownership gaps before a reorg
+- 71% of new hires clicked recommended context in first two weeks
+- managers reported fewer repeated onboarding questions in weeks 3-6
 
 ## Claims to avoid
 
-- Predict revenue with perfect accuracy
-- Never miss forecast again
-- Close more deals automatically
-- Replace manager judgment
-- Autonomous sales management
-- Guaranteed win-rate improvement
+- Unlock all company knowledge
+- Replace onboarding
+- Eliminate knowledge loss
+- Cut onboarding time in half for every customer
+- Capture everything automatically
+- Make employees instantly productive
 
-## Why the workflow mattered
+## Words to use
 
-If the team started by rewriting the landing page, it might have produced cleaner copy but not better strategy.
+- institutional knowledge
+- how we actually do things
+- living context
+- role-specific context
+- knowledge risk
+- slow ramp
+- departures and reorgs
+- before it walks out the door
 
-The skill sequence forced better decisions:
+## Words to avoid
 
-- VOC found the real customer language.
-- Positioning narrowed the market frame.
-- Launch tiering prevented overlaunching.
-- Sales narrative made the story usable for reps.
-- Demo storyline made the product prove the message.
-- Customer story engine constrained claims to real proof.
-- AI PMM reviewer cut generic AI language.
-
-## Final PMM takeaway
-
-The better story was already in the customer notes.
-
-The job of the skill system was to find it, structure it, and prevent the agent from replacing customer truth with generic AI marketing language.
+- AI-powered knowledge management
+- unlock productivity
+- enterprise brain
+- single source of truth
+- seamless knowledge discovery
+- smarter collaboration

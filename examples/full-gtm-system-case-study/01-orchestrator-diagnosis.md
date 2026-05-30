@@ -6,135 +6,74 @@ Skill used: `b2b-pmm-orchestrator`
 
 This is a full GTM system problem, not a copywriting problem.
 
-The team has raw customer evidence, beta feedback, a product brief, launch constraints, and weak draft copy. The right move is not to rewrite the landing page first. The right move is to sequence the work so every downstream artifact is grounded in customer truth.
+The team has a promising product, strong founder intuition, and real beta signals. But the current language collapses into generic AI knowledge-management copy.
 
-## What kind of PMM problem is this?
+The work should start with customer truth and strategic choices, then move into launch, sales, demo, proof, and review.
 
-Primary problem:
+## Primary GTM risk
 
-- Positioning and launch sequencing
+KnowledgeWeave could be perceived as:
 
-Secondary problems:
+- another AI wiki
+- another enterprise search tool
+- a meeting-notes summarizer
+- a surveillance product
+- a nice-to-have onboarding tool
 
-- Voice-of-customer synthesis
-- Sales narrative
-- Demo storyline
-- Proof packaging
-- AI copy review
-
-## Known facts
-
-- Buyers and users believe deal risk appears too late.
-- Managers do not want more dashboards.
-- The strongest repeated language is about timing, explanation, and manager action.
-- AI trust is a major adoption barrier.
-- One beta customer reduced pipeline review prep time from 3 hours to 75 minutes per manager.
-- The product can explain why deals are risky and recommend coaching actions.
-
-## Assumptions
-
-- The strongest initial wedge is frontline manager deal inspection.
-- The economic buyer is CRO / VP Sales.
-- RevOps is an important influencer because configurability and auditability matter.
-- The product should not be positioned as generic revenue intelligence.
-- The launch should not claim forecast accuracy improvements until evidence exists.
+The PMM job is to frame it as a business-critical continuity system for scaling companies that cannot afford to lose operational knowledge every time people leave, reorganize, or move teams.
 
 ## Recommended workflow
 
 1. `voice-of-customer-synthesis`
+   - Extract the real pains, exact language, objections, and proof themes.
+
 2. `positioning-messaging-framework`
+   - Define the segment, real alternative, differentiated value, and exactly 3 differentiated messaging pillars.
+
 3. `launch-tier-framework`
+   - Decide launch weight and build a season-of-launch plan.
+
 4. `sales-narrative-deck`
+   - Give sales a story that does not sound like “AI search.”
+
 5. `demo-storyline`
+   - Prove the narrative through a new-hire / team-transition workflow.
+
 6. `customer-story-engine`
+   - Turn beta proof into usable but claim-safe evidence.
+
 7. `ai-pmm-reviewer`
+   - Cut generic claims and pressure-test trust, differentiation, and proof.
 
-## Why this order
-
-### 1. Voice of customer before positioning
-
-The inputs contain repeated customer language. Extracting pains, triggers, status quo, objections, and exact language prevents the team from defaulting to generic AI copy.
-
-### 2. Positioning before launch
-
-A launch plan without a clear target segment, status quo, differentiated value, and proof becomes a channel checklist.
-
-### 3. Launch tier before campaign plan
-
-The launch should be sized to strategic importance and evidence level. A product with a strong demo and narrow proof may deserve a campaign-level launch, not a company-defining launch.
-
-### 4. Sales narrative before demo
-
-The demo should prove the sales story. If the story is unclear, the demo becomes a feature tour.
-
-### 5. Customer proof before final copy
-
-The team has one useful proof point but many unsupported claims. Package proof carefully before writing public-facing copy.
-
-### 6. PMM review at the end
-
-The reviewer should check final artifacts against the evidence, positioning, and claims policy.
-
-## What not to do
+## What not to do yet
 
 Do not start with:
 
-- a landing page rewrite
-- a full campaign calendar
-- a Tier 1 launch plan
-- a category POV
-- a forecast accuracy claim
-- generic AI thought leadership
+- a tagline brainstorm
+- a generic homepage rewrite
+- a broad “future of work” POV
+- a giant category narrative
+- analyst-style “knowledge graph” language
 
-## Rejected options
+Those would make the product feel more abstract. The immediate job is to make the pain concrete and commercially urgent.
 
-### Rejected option: Lead with "AI-powered revenue intelligence"
+## Minimum useful artifact
 
-Why rejected:
+Before creating every launch asset, create:
 
-- Too broad
-- Too generic
-- Does not name the buyer's pain
-- Sounds like every AI sales tool
+- positioning statement
+- three differentiated messaging pillars
+- homepage hero
+- sales narrative outline
+- demo arc
+- claims policy
 
-### Rejected option: Claim better forecast accuracy
+That is enough to align product, sales, marketing, and founder narrative.
 
-Why rejected:
+## Key strategic choice
 
-- No evidence yet
-- High-risk claim
-- Legal and buyer trust issue
+Lead with knowledge loss and slow ramp, not knowledge management.
 
-### Rejected option: Make this a Tier 1 launch
+“Knowledge management” sounds like a tool category.
 
-Why rejected:
-
-- Proof is promising but still narrow
-- No public customer story yet
-- Product does not yet define a category-level market shift
-
-### Rejected option: Position as rep productivity
-
-Why rejected:
-
-- Customer evidence points more strongly to manager inspection and forecast confidence
-- Rep productivity could trigger surveillance concerns
-
-## Smallest useful next artifact
-
-A voice-of-customer synthesis.
-
-It should answer:
-
-- What problem are customers actually describing?
-- What words do they use?
-- What status quo are they replacing?
-- What objections are already visible?
-- What proof do we have?
-- What claims are unsupported?
-
-## Stop condition for this phase
-
-The team can say:
-
-> The core problem is that deal risk shows up too late for managers to act. The buyer does not need another dashboard or magic AI score; they need explainable signals that show what changed, why it matters, and where managers should spend their next hour.
+“Your best employees leave and the company forgets how work actually gets done” sounds like a business problem.

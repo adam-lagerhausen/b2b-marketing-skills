@@ -4,171 +4,147 @@ Skill used: `positioning-messaging-framework`
 
 ## Positioning diagnosis
 
-The product team's preferred language leads with the category:
+The product team wants to lead with:
 
-> AI-powered revenue intelligence
+> Real-time AI knowledge graph.
 
-The customer evidence points to a more specific wedge:
+That is a capability, not a position.
 
-> Catch deal risk before the forecast call.
+The buyer problem is not “we need a knowledge graph.” The buyer problem is:
 
-The second is stronger because it names the timing problem, the buyer workflow, and the business moment where pain becomes visible.
+> We are losing critical operating knowledge every time people leave, change teams, or inherit work without context.
 
-## Target segment
+## Target segment and persona
 
-B2B SaaS revenue teams where frontline managers own weekly pipeline or forecast inspection.
+Primary segment:
 
-Best-fit characteristics:
+Scaling B2B companies with 400-3,000 employees where onboarding, reorgs, distributed work, and employee turnover create measurable ramp and continuity problems.
 
-- 300–2,000 employees
-- Sales-led or hybrid GTM
-- Multi-stakeholder B2B deals
-- Meaningful CRM/activity data volume
-- Weekly forecast or pipeline review process
-- RevOps function exists
-- Sales leadership feels forecast confidence pressure
+Primary buyers:
 
-## Primary buyer
+- VP People / Chief People Officer
+- COO
+- Head of Enablement
 
-VP Sales or CRO.
+Key influencers:
 
-What they care about:
+- IT / Security
+- Department leaders
+- Knowledge management owners
+- RevOps / Customer Success Operations when account context is a major use case
 
-- forecast confidence
-- pipeline execution
-- manager consistency
-- late-quarter surprise reduction
-- sales process discipline
-- board/finance credibility
+Out of scope for initial positioning:
 
-## Primary user
-
-Frontline sales manager.
-
-What they care about:
-
-- which deals need attention
-- what changed since last review
-- how to coach the rep
-- how to prepare for forecast calls faster
-- how to inspect deals consistently without drowning in dashboards
-
-## Influencers
-
-### RevOps
-
-Cares about configurable signals, CRM fit, auditability, process consistency, and data quality.
-
-### Sales enablement
-
-Cares about manager coaching consistency, repeatable inspection behavior, and onboarding new managers.
-
-### Finance / CFO
-
-Cares about forecast movement, business planning confidence, and late surprises.
+- Small teams that can still rely on shoulder-tapping
+- Companies looking only for enterprise search
+- Organizations unwilling to connect collaboration sources
+- Teams without a clear onboarding, transition, or knowledge-risk pain
 
 ## Real alternative
 
-The real alternative is the current inspection ritual:
+The real alternative is the informal knowledge survival system:
 
-- CRM dashboards
-- spreadsheets
-- manager gut feel
-- rep self-reporting
-- manual deal reviews
-- late-stage forecast calls
-- RevOps hygiene projects
+- Slack archaeology
+- stale wiki pages
+- asking senior employees repeatedly
+- onboarding buddies
+- meeting recordings nobody watches
+- project docs without decision context
+- managers manually translating “how we do things” for every new hire
 
-This matters because the product is not replacing a tool only. It is replacing a behavior pattern.
+## Pains, consequences, and JTBD
 
-## Category frame
+Pain:
 
-Do not lead with:
+Critical “how we actually do things” knowledge is trapped in people’s heads, meetings, Slack threads, and scattered project artifacts.
 
-- revenue intelligence
-- predictive forecasting
-- AI sales automation
+Business consequences:
 
-Lead with:
+- new hires take too long to become productive
+- managers repeat the same explanations
+- teams repeat avoidable mistakes
+- projects slow down after departures or reorgs
+- customer/account context disappears during handoffs
+- hidden single points of failure create operational risk
 
-- explainable deal risk inspection
-- manager-led pipeline coaching
-- forecast risk intervention
+Job to be done:
+
+When employees join, leave, change teams, or inherit work, help them quickly understand the context, decisions, owners, and unwritten rules they need to perform with confidence.
+
+Emotional stakes:
+
+- New hires want to stop feeling lost.
+- Managers want to stop being the human search engine.
+- Leaders want to know the company can keep operating when experienced people leave.
+
+## Differentiated value
+
+KnowledgeWeave is not another place to store knowledge.
+
+It continuously captures knowledge where work already happens, connects it into a living graph, and proactively surfaces role- and task-specific context before employees know what to search for.
 
 ## Positioning statement
 
-For B2B SaaS revenue teams that find deal risk too late, PipelineGuard's AI Deal Risk Assistant gives frontline managers explainable early warnings and coaching actions for at-risk opportunities, so teams can inspect pipeline consistently before deals slip.
+Template version:
 
-Unlike generic revenue dashboards or black-box AI scores, PipelineGuard shows what changed, why it matters, and what managers should do next.
+For People, Ops, and Enablement leaders at scaling B2B companies who need employees to ramp faster while reducing operational dependence on tribal knowledge, KnowledgeWeave is an AI institutional knowledge platform that captures, connects, and surfaces how work actually gets done so teams can preserve context through onboarding, departures, reorgs, and project handoffs. Unlike wikis, search tools, and static knowledge bases that depend on employees documenting and finding the right information manually, KnowledgeWeave builds a living knowledge graph from meetings, documents, Slack threads, and project updates, then delivers the right context to each employee based on their role and current task.
 
-## One-liner options
+Tightened version:
 
-Best option:
-
-> Catch deal risk before the forecast call.
-
-Other viable options:
-
-- Show managers which deals need coaching now.
-- Explain deal risk before it becomes a forecast surprise.
-- Make pipeline inspection faster, earlier, and more consistent.
-
-Rejected options:
-
-- AI-powered revenue intelligence for modern sales teams.
-- Predict your pipeline with confidence.
-- Close more deals with cutting-edge AI.
+KnowledgeWeave helps scaling companies preserve the “how we actually do things” knowledge that usually disappears when people leave, reorganize, or move teams. Instead of asking employees to search stale docs, KnowledgeWeave captures living context from the flow of work and surfaces what each person needs to know for their role and task.
 
 ## Messaging pillars
 
 Exactly three pillars, each making a distinct point:
 
-| | Catch deal risk before the forecast call | Show managers where to spend their next coaching hour | Make AI risk signals explainable and configurable |
+| | Preserve knowledge before it walks out the door | Ramp employees with context, not just content | Find and fix hidden knowledge risk |
 | --- | --- | --- | --- |
-| Buyer problem | Risk often becomes visible after managers have lost the chance to intervene. | Managers do not need more reports; they need to know which deals deserve attention now. | Sales teams do not trust black-box AI, and RevOps will not adopt a risk model they cannot tune. |
-| Message | PipelineGuard flags risky opportunities as signals change, so managers can act before deals slip. | PipelineGuard prioritizes which deals need manager attention and recommends concrete coaching actions. | PipelineGuard shows reason codes, supporting evidence, and configurable signals so teams can inspect and trust the recommendation. |
-| Proof / mechanism | Detects changes in stakeholder engagement; tracks next-step quality; surfaces forecast movement; shows what changed since last inspection. | Recommended actions; risk summaries; pipeline review workflow; beta customer reduced prep time from 3 hours to 75 minutes per manager. | Reason codes; source signal visibility; admin-configurable signals; audit trail for RevOps. |
+| Buyer problem | Critical operating knowledge lives in people’s heads and disappears during departures, reorgs, and handoffs. | New hires and team movers get too much generic documentation and not enough role-specific context. | Leaders cannot see where knowledge is outdated, missing, duplicated, or concentrated with one person until work slows down. |
+| Message | KnowledgeWeave captures decisions, tradeoffs, owners, and unwritten context from the flow of work before the company forgets them. | KnowledgeWeave surfaces what each employee should know right now based on their role, team, and current task. | KnowledgeWeave gives teams a knowledge health score so leaders can see and reduce institutional knowledge risk. |
+| Proof / mechanism | Continuously connects meetings, docs, Slack threads, and project updates into a living knowledge graph. | Personalized “what you should know now” feed; smart surfacing during meetings and document creation; role-aware recommendations. | Knowledge health score; ownership gaps; stale-context detection; concentrated-knowledge signals; team-level visibility. |
 
 ## Homepage hero draft
 
 Headline:
 
-> Catch deal risk before the forecast call.
+> Capture institutional knowledge before it walks out the door.
 
 Subhead:
 
-> PipelineGuard's AI Deal Risk Assistant shows frontline managers what changed, why a deal is at risk, and what to do next — so teams can inspect pipeline before deals slip.
+> KnowledgeWeave turns meetings, docs, Slack threads, and project updates into a living knowledge graph that shows every employee what they need to know for their role and current work.
 
 Proof line:
 
-> In beta, one customer reduced pipeline review prep time from 3 hours to 75 minutes per manager.
+> In beta, one customer reduced new CSM ramp to independent account ownership from 14 weeks to 8 weeks.
 
 Primary CTA:
 
-> See how deal risk is explained
+> See how KnowledgeWeave preserves company know-how
 
 Secondary CTA:
 
-> Read the manager workflow
+> Explore the onboarding workflow
 
 ## Claims policy
 
 Safe claims:
 
-- Helps managers identify at-risk deals earlier
-- Explains why deals are risky
-- Recommends manager coaching actions
-- Reduces pipeline review prep time for one beta customer
-- Makes deal inspection more consistent
+- Preserve institutional knowledge through departures, reorgs, and handoffs.
+- Surface role-specific context for new hires and team movers.
+- Help leaders see hidden knowledge gaps and concentration risk.
+- Reduce repeated questions and duplicated work.
 
-Claims needing more evidence:
+Claims that need more proof:
 
-- Improves forecast accuracy
-- Prevents slipped deals
-- Increases win rate
-- Saves revenue
-- Guarantees sales productivity gains
+- Cut onboarding time in half.
+- Save millions in productivity.
+- Eliminate knowledge loss.
+- Automatically capture all company knowledge.
 
-## PMM decision
+Avoid:
 
-The product should be messaged around manager action and explainable risk, not around generic AI revenue intelligence.
+- “single source of truth”
+- “AI-powered knowledge management”
+- “unlock productivity”
+- “enterprise brain”
+- “never lose knowledge again”

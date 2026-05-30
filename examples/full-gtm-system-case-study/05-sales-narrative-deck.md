@@ -4,165 +4,141 @@ Skill used: `sales-narrative-deck`
 
 This is a first-call sales narrative, not a final designed deck. The goal is to give reps a story they can use in conversation.
 
-## Narrative spine
+## Narrative arc
 
-1. Deal risk is showing up too late.
-2. More dashboards did not fix manager inspection.
-3. The best managers know what to look for, but that judgment is inconsistent.
-4. PipelineGuard makes deal inspection explainable and repeatable.
-5. Managers see what changed, why it matters, and what to do next.
-6. The outcome is earlier coaching, faster prep, and more consistent pipeline reviews.
+1. Scaling companies do not just lose employees. They lose operating memory.
+2. Documentation does not capture how work actually gets done.
+3. New hires inherit content, but not context.
+4. KnowledgeWeave captures living knowledge from the flow of work.
+5. Employees get the exact context they need for their role and task.
+6. Leaders see where knowledge risk is hiding before it slows the business down.
 
-## Slide 1: Deal risk is showing up too late
+## Slide outline
 
-Slide title:
+### Slide 1: The hidden cost of employee turnover
 
-> Deal risk is showing up too late.
+Title:
 
-Talk track:
-
-Most revenue teams do not have a pipeline visibility problem. They have a timing problem.
-
-By the time a deal shows up as risky in the forecast call, the manager may already have missed the chance to intervene. The champion has gone quiet. Procurement has slipped. The next step has become vague. The close date moved again.
-
-Discovery question:
-
-> When does your team usually realize a commit deal is actually at risk?
-
-## Slide 2: More dashboards did not fix manager inspection
-
-Slide title:
-
-> More dashboards did not fix the inspection problem.
+> When experienced employees leave, the company forgets how work gets done.
 
 Talk track:
 
-Dashboards show data. They do not tell a manager which deal needs coaching, what changed, why it matters, or what action to take next.
+Most companies measure attrition by headcount replacement. But the bigger cost is often invisible: lost context, repeated mistakes, slow ramp, manager burden, and decisions made without historical knowledge.
 
-That is why many teams still run pipeline reviews through spreadsheets, CRM tabs, rep updates, and manager gut feel.
+### Slide 2: The problem is not lack of documentation
 
-Discovery question:
+Title:
 
-> How do your managers decide which deals need attention before forecast calls?
-
-## Slide 3: The best managers know what to look for
-
-Slide title:
-
-> Your best managers already know the risk signals.
+> Your wiki stores what people wrote down. It misses what they learned.
 
 Talk track:
 
-Experienced managers notice weak next steps, missing executive engagement, stale activity, single-threaded deals, procurement ambiguity, and late-stage close-date movement.
+The most valuable knowledge often lives in meetings, Slack threads, decisions, tradeoffs, exceptions, and project history. That knowledge rarely makes it into a clean doc.
 
-The problem is that this judgment is not consistent across every manager.
+### Slide 3: New hires get content without context
 
-Discovery question:
+Title:
 
-> What do your best managers catch that newer managers usually miss?
-
-## Slide 4: PipelineGuard makes deal inspection repeatable
-
-Slide title:
-
-> PipelineGuard makes deal inspection repeatable.
+> New employees do not know what they do not know.
 
 Talk track:
 
-The AI Deal Risk Assistant flags risky opportunities, explains the reason, shows what changed, and recommends the next manager action.
+Search is useful when you know the right question. New hires usually do not. They need role-specific context surfaced at the moment they are joining meetings, writing docs, or inheriting work.
 
-This is not a magic score. It is an explainable inspection layer for manager-led pipeline reviews.
+### Slide 4: Knowledge risk is invisible until work breaks
 
-## Slide 5: Explainable AI, not black-box scoring
+Title:
 
-Slide title:
-
-> Explain the risk, not just the score.
+> You cannot manage the knowledge gaps you cannot see.
 
 Talk track:
 
-Sales teams will not trust black-box AI. Managers need to inspect the evidence.
+Leaders often discover knowledge concentration after someone leaves. By then, teams are reconstructing decisions, redoing work, and slowing projects.
 
-PipelineGuard shows reason codes and supporting signals, so the manager can understand why the deal was flagged and decide what to do.
+### Slide 5: Introducing KnowledgeWeave
 
-Proof point:
+Title:
 
-> In beta, managers said the explanation behind the risk was more useful than the risk label itself.
-
-## Slide 6: Show managers where to spend their next hour
-
-Slide title:
-
-> Show managers where to spend their next hour.
+> Capture institutional knowledge before it walks out the door.
 
 Talk track:
 
-Managers do not need more reports. They need focus.
+KnowledgeWeave continuously captures and connects knowledge from meetings, docs, Slack threads, and project updates, then builds a living knowledge graph that keeps itself current.
 
-PipelineGuard prioritizes at-risk opportunities and recommends coaching actions, so managers can spend less time preparing and more time intervening.
+### Slide 6: Personalized context in the flow of work
 
-Proof point:
+Title:
 
-> One beta customer reduced pipeline review prep time from 3 hours to 75 minutes per manager.
-
-## Slide 7: Fit into your existing forecast motion
-
-Slide title:
-
-> Built for the way forecast reviews already happen.
+> Show every employee what they should know right now.
 
 Talk track:
 
-PipelineGuard creates deal-risk summaries that can be used in manager pipeline reviews and forecast calls. The goal is not to replace your process. It is to make the inspection step earlier, clearer, and more consistent.
+KnowledgeWeave does not wait for employees to search. It recommends relevant decisions, owners, documents, project history, and unresolved context based on role and task.
 
-## Slide 8: RevOps controls the signals
+### Slide 7: Visibility for leaders
 
-Slide title:
+Title:
 
-> Configurable signals for your sales motion.
-
-Talk track:
-
-Enterprise deals and SMB deals should not always use the same inspection logic. RevOps can configure risk signals and visibility so the assistant supports your process instead of becoming another system people work around.
-
-## Slide 9: What changes for the revenue team
-
-Slide title:
-
-> Earlier risk. Better coaching. More consistent inspection.
+> See where institutional knowledge is healthy, stale, or at risk.
 
 Talk track:
 
-Revenue leaders get earlier visibility. Managers get clearer coaching priorities. RevOps gets a consistent inspection process. Reps get better coaching before deals slip.
+The knowledge health score shows where knowledge is missing, outdated, duplicated, or concentrated with one person, so leaders can act before transitions create business risk.
 
-## Slide 10: Next step
+### Slide 8: Proof
 
-Slide title:
+Title:
 
-> Where is deal risk showing up too late today?
+> Early customers are using KnowledgeWeave to shorten ramp and reduce knowledge gaps.
+
+Proof points:
+
+- New CSM ramp to independent account ownership reduced from 14 weeks to 8 weeks in one beta.
+- Engineering team identified 23 undocumented ownership gaps before a reorg.
+- 71% of new hires clicked recommended context in their first two weeks.
+
+### Slide 9: Why now
+
+Title:
+
+> Distributed work, faster reorgs, and AI have made knowledge continuity a leadership problem.
 
 Talk track:
 
-The best next step is to look at your current forecast process and identify where risk is surfacing too late, which signals your best managers already inspect, and where AI could help managers act earlier.
+Companies are moving faster, but their knowledge systems still depend on manual docs and tribal memory. KnowledgeWeave gives scaling teams a living system for preserving and applying know-how.
+
+### Slide 10: CTA
+
+Title:
+
+> Find the knowledge your company is at risk of losing.
 
 CTA:
 
-> Let's review three recent slipped deals and map the risk signals that appeared before the forecast changed.
+Run a Knowledge Health Assessment for one team, onboarding cohort, or reorg-prone function.
+
+## Discovery questions
+
+- Where does new-hire ramp feel slowest today?
+- What knowledge disappears when experienced employees leave?
+- Which teams rely most heavily on one or two “ask this person” experts?
+- Where do employees waste time finding context that already exists somewhere?
+- What would it mean financially if new hires became productive 4-6 weeks faster?
 
 ## Objection handling
 
-### Is this just another score?
+Objection:
 
-No. The score is not the product. The value is the explanation: what changed, why it matters, and what the manager should do next.
+> We already have Confluence / Notion / Guru.
 
-### Will reps feel monitored?
+Response:
 
-That depends on rollout. The recommended positioning is coaching support, not surveillance. The manager workflow should be framed around helping reps save deals earlier.
+Those tools are useful for documented knowledge. KnowledgeWeave captures living context from the flow of work and surfaces what employees need before they know what to search for.
 
-### Can we trust the AI?
+Objection:
 
-Managers should not blindly trust it. They should inspect the reason codes and supporting evidence. PipelineGuard is designed to show its work.
+> Employees may worry about monitoring.
 
-### Will this improve forecast accuracy?
+Response:
 
-The safe answer: PipelineGuard helps managers catch and inspect deal risk earlier. Forecast accuracy improvement is a goal, but should be measured in your environment.
+KnowledgeWeave is designed around approved sources, role-based visibility, and knowledge health — not employee surveillance. Privacy controls are part of the product experience, not an afterthought.

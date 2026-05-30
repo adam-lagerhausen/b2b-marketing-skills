@@ -1,18 +1,38 @@
-# Full GTM System Case Study: PipelineGuard AI Deal Risk Assistant
+# Full GTM System Case Study: KnowledgeWeave
 
 This is the flagship end-to-end example for the B2B Marketing Skills repo.
 
-It shows how the skill suite turns messy GTM inputs into a launch-ready PMM system: customer truth, positioning, launch strategy, sales narrative, demo story, proof, and final review.
+It shows how the skill suite turns messy GTM inputs into a launch-ready PMM system for a specific product: KnowledgeWeave.
 
-This is intentionally more substantial than the single-skill examples. The point is to show the reasoning, rejected options, evidence quality, and artifacts created along the way.
+Product:
+KnowledgeWeave is an AI knowledge platform that captures institutional knowledge before it walks out the door. It listens to meetings, reads documents, Slack threads, and project updates, then builds a living knowledge graph that surfaces the exact knowledge someone needs for their role and current task.
 
-## Scenario
+Tagline:
+The AI that captures institutional knowledge before it walks out the door.
 
-PipelineGuard is a fictional B2B SaaS company launching an AI Deal Risk Assistant for revenue teams.
+Core GTM problem:
+Experienced employees leave, teams reorganize, and critical “how we actually do things” knowledge disappears. New hires take 6-12 months to become fully productive. Companies lose money through repeated mistakes, slow ramp-up, duplicated work, and decisions made without historical context.
 
-The product flags risky opportunities, explains why they are risky, and recommends manager coaching actions before deals slip.
+## Why this is a strong PMM example
 
-## Files
+Knowledge loss is expensive, familiar, and under-owned. Everyone feels it, but most companies treat it as an onboarding, documentation, or search problem.
+
+The PMM challenge is to reframe it:
+
+Not:
+- better search
+- an AI wiki
+- automated meeting notes
+- another knowledge base
+
+But:
+- institutional knowledge continuity
+- faster ramp for new employees
+- fewer repeated mistakes
+- less dependence on tribal knowledge
+- a living system for how work actually gets done
+
+## Case study files
 
 1. [Raw inputs](00-raw-inputs.md)
 2. [Orchestrator diagnosis](01-orchestrator-diagnosis.md)
@@ -25,27 +45,10 @@ The product flags risky opportunities, explains why they are risky, and recommen
 9. [AI PMM reviewer teardown](08-ai-pmm-reviewer.md)
 10. [Final GTM system](09-final-gtm-system.md)
 
-## What this demonstrates
+## What this case study demonstrates
 
-A generic AI prompt might produce:
-
-> Unlock AI-powered revenue intelligence for modern sales teams.
-
-This workflow produces:
-
-- a customer-backed problem statement
-- a clear target segment and buyer
-- a real status quo alternative
-- differentiated positioning
-- messaging pillars tied to evidence
-- a launch tier recommendation with rationale
-- a sales narrative reps can actually use
-- a demo arc built around buyer pain
-- a customer proof package that avoids invented claims
-- a reviewer teardown that catches generic AI language
-
-## Core lesson
-
-The goal is not to ask AI to write more marketing.
-
-The goal is to give an agent enough PMM judgment to decide what should be written, what should not be claimed, what evidence matters, and what story a buyer might actually believe.
+- how to turn broad AI capabilities into a specific buyer problem
+- how to avoid generic “AI knowledge management” positioning
+- how to build exactly 3 differentiated messaging pillars
+- how to connect onboarding, retention, productivity, and risk into one strategic narrative
+- how to create a launch, sales story, demo, proof package, and reviewer teardown from the same source truth

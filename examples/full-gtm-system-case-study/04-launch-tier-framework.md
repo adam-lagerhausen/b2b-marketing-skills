@@ -8,219 +8,123 @@ Recommended tier: Tier 2 campaign-level launch
 
 ## Why not Tier 1?
 
-A Tier 1 launch would imply a company-defining market moment. The product is important, but the proof is not yet strong enough for that level.
+A Tier 1 launch would imply a category-defining market moment with strong public proof and broad analyst/customer validation.
 
-Reasons to avoid Tier 1 right now:
+KnowledgeWeave has a strong problem, timely AI relevance, and promising beta proof. But it does not yet have enough named-customer proof or market education assets to support a full category launch.
 
-- Only one quantified beta proof point is available.
-- No public customer quote is approved.
-- Forecast accuracy impact is not yet quantified.
-- The product does not yet support a broad category reframe.
-- Legal wants careful AI claims.
+## Why Tier 2 is right
 
-## Why not Tier 3?
+This deserves more than a feature announcement because:
 
-A Tier 3 launch would undersell the product.
-
-Reasons it deserves more than a targeted update:
-
-- Clear executive buyer pain
-- Strong demo potential
-- Timely AI story
-- Sales team needs enablement
-- Existing customers need adoption support
-- The product can influence pipeline creation and expansion
+- the pain is strategic and cross-functional
+- the story can reach People, Ops, Enablement, and department leaders
+- beta proof is specific enough to support a credible launch
+- the product changes how companies think about onboarding and knowledge continuity
+- sales needs a narrative, demo, and objection handling
 
 ## Launch objective
 
-Create qualified demand and sales confidence around a credible AI workflow for manager-led deal inspection.
+Establish KnowledgeWeave as the institutional knowledge continuity platform for scaling companies that cannot afford to lose “how work actually gets done” every time people leave, reorganize, or join.
+
+## Target audience
+
+Primary:
+
+- VP People / Chief People Officer
+- COO
+- Head of Enablement
+
+Secondary:
+
+- Department leaders managing complex handoffs
+- IT / Security approvers
+- Knowledge management owners
 
 ## Launch narrative
 
-Forecast risk does not start in the forecast call.
+Companies do not lose knowledge all at once. They lose it quietly: when a senior employee leaves, a team reorganizes, a new hire inherits a project, or a decision’s reasoning never makes it into the wiki.
 
-It starts when the champion goes quiet, the next step gets vague, procurement slips, executive engagement disappears, or a manager misses the signal.
+The result is slow ramp, repeated mistakes, duplicated work, manager bottlenecks, and hidden operational risk.
 
-PipelineGuard's AI Deal Risk Assistant helps revenue teams catch those risks earlier by showing frontline managers what changed, why it matters, and what to do next.
+KnowledgeWeave captures institutional knowledge as work happens and turns it into role-specific context employees can use when they need it.
 
-## Target audiences
+## Season-of-launch plan
 
-Primary external audience:
+### Pre-launch: sharpen the problem
 
-- VP Sales
-- CRO
-- Revenue leaders at B2B SaaS companies
+Assets:
 
-Secondary external audience:
+- Founder POV: “Your company has knowledge risk. You just cannot see it yet.”
+- Blog post: “Why better documentation does not fix institutional knowledge loss.”
+- Sales one-pager: “KnowledgeWeave vs wikis, search, and LMS.”
+- Beta proof snippet with ramp-time result.
 
-- RevOps leaders
-- Sales enablement leaders
-- Frontline sales managers
+Goal:
 
-Internal audience:
+Make the problem feel urgent before pitching the product.
 
-- Sales
-- Customer success
-- Product
-- RevOps / implementation
-- Support
+### Launch week: introduce the category frame
 
-## Launch message by audience
+Assets:
 
-### CRO / VP Sales
+- Launch post: “Capture institutional knowledge before it walks out the door.”
+- Product page with three pillars.
+- Demo video showing new-hire meeting prep.
+- Sales deck and talk track.
+- Customer proof one-pager using beta results.
 
-Message:
+Goal:
 
-Catch deal risk before it becomes a forecast surprise.
+Show KnowledgeWeave as the system for preserving and surfacing company know-how.
 
-Why they care:
+### Post-launch: prove use cases
 
-Forecast misses affect board confidence, hiring plans, spending, and revenue execution.
+Assets:
 
-### Frontline sales manager
+- Use-case page: onboarding acceleration
+- Use-case page: team handoffs and reorgs
+- Use-case page: knowledge risk visibility
+- Webinar: “How scaling companies lose operational memory.”
+- Checklist: “Where institutional knowledge is most likely to disappear.”
 
-Message:
+Goal:
 
-Know which deals need your coaching attention now.
+Turn a broad strategic story into concrete buying motions.
 
-Why they care:
+## Launch proof hierarchy
 
-Managers need to spend less time preparing and more time coaching the right deals.
+Strongest current proof:
 
-### RevOps
+> One beta customer reduced time for new CSMs to handle accounts independently from 14 weeks to 8 weeks.
 
-Message:
+Supporting proof:
 
-Make deal inspection consistent, explainable, and configurable.
+- engineering team identified 23 undocumented ownership gaps before a reorg
+- 71% of new hires clicked recommended context in first two weeks
+- managers reported fewer repeated onboarding questions in weeks 3-6
 
-Why they care:
+Proof to avoid overstating:
 
-RevOps needs process consistency without creating another black-box system.
+- broad productivity savings
+- company-wide knowledge capture
+- guaranteed ramp reduction
 
-### Sales reps
+## Launch risks
 
-Message:
+Risk 1: Buyers think it is another knowledge base.
 
-Better coaching before deals slip.
+Mitigation:
 
-Why they care:
+Lead with “captures living context from work,” not “organizes information.”
 
-The assistant should be framed as support, not surveillance.
+Risk 2: Employees worry about surveillance.
 
-## Pre-launch work
+Mitigation:
 
-### Positioning validation
+Put privacy controls and approved sources in the launch narrative, not the FAQ only.
 
-- Review positioning with 3 sales leaders.
-- Review messaging with 2 frontline managers.
-- Review RevOps language with 2 RevOps customers or advisors.
-- Confirm whether "forecast call" language resonates across segments.
+Risk 3: Ownership is unclear.
 
-### Proof readiness
+Mitigation:
 
-- Secure permission to use the 3 hours to 75 minutes proof point.
-- Identify whether the customer can be named.
-- If not, phrase as anonymized beta proof.
-- Do not claim forecast accuracy improvement.
-
-### Sales enablement
-
-Create:
-
-- first-call talk track
-- objection handling
-- demo script
-- one-page sales brief
-- AI trust FAQ
-- claims guidance
-
-### Product/demo readiness
-
-Create demo flow around:
-
-- risky commit deal
-- what changed
-- reason codes
-- supporting evidence
-- recommended manager action
-- forecast-call summary
-
-## Launch moment
-
-Launch assets:
-
-- Landing page
-- Product announcement blog
-- Sales deck update
-- Demo video or interactive demo
-- Customer email
-- Sales enablement kit
-- RevOps technical/admin brief
-- Founder/PMM LinkedIn post
-
-Core launch CTA:
-
-> See how PipelineGuard explains deal risk before the forecast call.
-
-## Follow-on season
-
-### Week 1: Announcement and sales activation
-
-- Publish launch blog and landing page.
-- Run sales enablement session.
-- Send customer announcement email.
-- Start targeted outreach to pipeline accounts.
-
-### Week 2: Demo and education
-
-- Publish short demo video.
-- Run live webinar for sales leaders.
-- Share manager workflow guide.
-
-### Week 3: Proof and objection handling
-
-- Publish beta proof one-pager.
-- Equip sales with AI trust FAQ.
-- Add RevOps configuration brief.
-
-### Week 4: Expansion and adoption
-
-- CS campaign to existing customers.
-- In-app education for managers.
-- RevOps admin setup guide.
-- Manager coaching playbook.
-
-## Success metrics
-
-Demand metrics:
-
-- Demo requests from target accounts
-- Landing page conversion
-- Campaign-sourced pipeline
-- Target account engagement
-
-Sales metrics:
-
-- Sales usage of deck and talk track
-- Opps where assistant is included in discovery/demo
-- Objections logged and handled
-
-Customer metrics:
-
-- Activation among existing customers
-- Manager weekly active usage
-- Risk summaries created
-- Pipeline review prep time reduction
-
-Learning metrics:
-
-- Which message drives demo requests
-- Which objections repeat
-- Whether "forecast call" is the right anchor phrase
-- Whether RevOps cares more about configurability or auditability
-
-## PMM decision
-
-This should be a serious campaign-level launch, but not a hype-driven company-defining launch.
-
-The launch should prove a specific workflow before claiming a broader category shift.
+Package three buying motions: onboarding/ramp, reorg/handoff continuity, knowledge risk visibility.
