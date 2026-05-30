@@ -102,7 +102,7 @@ You do not need every skill every time. The point is to give the agent the right
 
 If you only read one example, start here:
 
-- [Full GTM system example: from customer notes to launch-ready PMM system](examples/full-gtm-system-example.md)
+- [Full GTM system case study: PipelineGuard AI Deal Risk Assistant](examples/full-gtm-system-case-study/)
 
 Common workflows:
 
