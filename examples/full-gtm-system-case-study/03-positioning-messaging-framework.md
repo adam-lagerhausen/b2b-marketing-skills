@@ -121,12 +121,11 @@ Rejected options:
 
 ## Messaging pillars
 
-| Pillar | Buyer problem | Message | Proof / mechanism |
-| --- | --- | --- | --- |
-| Find deal risk before the forecast call | Risk often becomes visible after managers have lost the chance to intervene. | PipelineGuard flags risky opportunities as signals change, so managers can act before deals slip. | Detects changes in stakeholder engagement; tracks next-step quality; surfaces forecast movement; shows what changed since last inspection. |
-| Show managers where to spend their next hour | Managers do not need more reports. They need coaching focus. | PipelineGuard prioritizes which deals need manager attention and recommends concrete coaching actions. | Recommended actions; risk summaries; pipeline review workflow; beta customer reduced prep time from 3 hours to 75 minutes per manager. |
-| Explain the risk, not just the score | Sales teams do not trust black-box AI. | PipelineGuard shows reason codes, supporting signals, and what changed, so managers can inspect the evidence before acting. | Reason codes; source signal visibility; admin-configurable signals; audit trail for RevOps. |
-| Make great deal inspection repeatable | The best managers know what to look for, but that judgment is inconsistent across teams. | PipelineGuard helps every manager inspect pipeline with a consistent view of risk, evidence, and next action. | Standardized inspection summaries; shared risk definitions; manager coaching guidance; RevOps controls. |
+| | Find deal risk before the forecast call | Show managers where to spend their next hour | Explain the risk, not just the score | Make great deal inspection repeatable |
+| --- | --- | --- | --- | --- |
+| Buyer problem | Risk often becomes visible after managers have lost the chance to intervene. | Managers do not need more reports. They need coaching focus. | Sales teams do not trust black-box AI. | The best managers know what to look for, but that judgment is inconsistent across teams. |
+| Message | PipelineGuard flags risky opportunities as signals change, so managers can act before deals slip. | PipelineGuard prioritizes which deals need manager attention and recommends concrete coaching actions. | PipelineGuard shows reason codes, supporting signals, and what changed, so managers can inspect the evidence before acting. | PipelineGuard helps every manager inspect pipeline with a consistent view of risk, evidence, and next action. |
+| Proof / mechanism | Detects changes in stakeholder engagement; tracks next-step quality; surfaces forecast movement; shows what changed since last inspection. | Recommended actions; risk summaries; pipeline review workflow; beta customer reduced prep time from 3 hours to 75 minutes per manager. | Reason codes; source signal visibility; admin-configurable signals; audit trail for RevOps. | Standardized inspection summaries; shared risk definitions; manager coaching guidance; RevOps controls. |
 
 ## Homepage hero draft
 
