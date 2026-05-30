@@ -108,7 +108,15 @@ The final version should be specific, credible, and plain-spoken. It does not ne
 
 ### 6. Turn positioning into messaging
 
-Create messaging pillars that express the position in buyer language.
+Create exactly 3 messaging pillars that express the position in buyer language.
+
+The 3 pillars must be unique and differentiated. Each pillar should make a distinct strategic point, not restate the same value in different words. If two pillars would appear together on a homepage and feel interchangeable, merge or rewrite them.
+
+Use this split unless the evidence strongly suggests another structure:
+
+1. Primary pain / urgent buyer problem
+2. Differentiated mechanism / why this works differently
+3. Business or emotional outcome / why the buyer should care now
 
 For each pillar, include:
 
@@ -161,7 +169,8 @@ Produce the framework in this structure:
    - Tightened version
 
 7. Messaging pillars
-   - 3 to 5 pillars
+   - Exactly 3 pillars
+   - Each pillar must be unique and differentiated, not a near-duplicate of another pillar
    - For each: message, pain addressed, outcome, reason to believe, copy direction
 
 8. Reasons to believe
@@ -190,7 +199,7 @@ A strong output:
 - Uses plain English that a customer would recognize
 - Makes explicit tradeoffs about who the positioning is and is not for
 - Provides credible reasons to believe
-- Produces messaging a salesperson could use in a real conversation
+- Produces exactly 3 messaging pillars that are unique, differentiated, and useful in a real sales conversation
 - Avoids interchangeable SaaS language
 
 ## Pressure tests
@@ -216,6 +225,7 @@ Avoid:
 - Confusing features with value
 - Claiming generic speed, efficiency, AI, automation, or productivity without a mechanism
 - Writing copy that could fit any SaaS company
+- Writing four or more pillars because every benefit feels important. Force the three strongest, most differentiated messages; move supporting points into proof, copy direction, or sales talk track.
 - Over-optimizing for cleverness instead of clarity
 - Hiding weak differentiation behind adjectives like modern, seamless, powerful, unified, or intelligent
 - Ignoring emotional stakes such as confidence, safety, trust, control, or the ability to say yes

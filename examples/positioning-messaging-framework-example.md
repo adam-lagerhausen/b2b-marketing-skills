@@ -130,73 +130,13 @@ DispatchGuard helps mid-market cold-chain logistics teams save at-risk shipments
 
 ## 7. Messaging pillars
 
-### Pillar 1: See the exceptions that can actually hurt the business
+Exactly three pillars, each making a distinct point:
 
-Message:
-- Not every delay deserves the same response. DispatchGuard highlights the exceptions most likely to cause SLA penalties, spoilage, or customer escalations.
-
-Pain addressed:
-- Managers cannot tell which issues are urgent until someone escalates manually.
-
-Outcome:
-- Teams focus first on the shipments with the highest business risk.
-
-Reason to believe:
-- Risk scoring combines SLA window, temperature sensitivity, customer priority, and delay reason.
-
-Copy direction:
-- "Know which shipment needs attention before the customer calls."
-
-### Pillar 2: Give every exception an owner and a next step
-
-Message:
-- DispatchGuard turns messy exception response into a clear incident workflow with ownership, status, next action, and escalation path.
-
-Pain addressed:
-- Updates are scattered across email, phone, text, and spreadsheets.
-
-Outcome:
-- Fewer dropped handoffs and less time spent chasing internal updates.
-
-Reason to believe:
-- Shared incident timelines show who owns the issue, what changed, and what needs to happen next.
-
-Copy direction:
-- "No more wondering who has the ball."
-
-### Pillar 3: Preserve customer trust when the day goes sideways
-
-Message:
-- When a shipment is at risk, customer-facing teams need accurate updates fast. DispatchGuard gives support and operations the same view of what happened and what is being done.
-
-Pain addressed:
-- Customer support gives late or vague answers because operations context is fragmented.
-
-Outcome:
-- More proactive customer communication and fewer surprise escalations.
-
-Reason to believe:
-- Incident timelines capture actions, owner changes, delay reasons, and resolution notes in one place.
-
-Copy direction:
-- "Give customers a straight answer before they lose confidence."
-
-### Pillar 4: Build a repeatable playbook instead of relying on heroes
-
-Message:
-- DispatchGuard captures how teams resolve recurring exceptions so new and experienced dispatchers can respond consistently.
-
-Pain addressed:
-- The operation depends on senior dispatchers remembering the right workaround.
-
-Outcome:
-- Faster onboarding, more consistent response, and less operational fragility.
-
-Reason to believe:
-- Playbooks recommend response steps based on similar past incidents.
-
-Copy direction:
-- "Turn your best dispatcher's instincts into a system the whole team can use."
+| Pillar | Message | Pain addressed | Outcome | Reason to believe | Copy direction |
+| --- | --- | --- | --- | --- | --- |
+| See the exceptions that can actually hurt the business | Not every delay deserves the same response. DispatchGuard highlights the exceptions most likely to cause SLA penalties, spoilage, or customer escalations. | Managers cannot tell which issues are urgent until someone escalates manually. | Teams focus first on the shipments with the highest business risk. | Risk scoring combines SLA window, temperature sensitivity, customer priority, and delay reason. | "Know which shipment needs attention before the customer calls." |
+| Give every exception an owner and a next step | DispatchGuard turns messy exception response into a clear incident workflow with ownership, status, next action, and escalation path. | Updates are scattered across email, phone, text, and spreadsheets. | Fewer dropped handoffs and less time spent chasing internal updates. | Shared incident timelines show who owns the issue, what changed, and what needs to happen next. | "No more wondering who has the ball." |
+| Protect customer trust when the day goes sideways | When a shipment is at risk, customer-facing teams need accurate updates fast. DispatchGuard gives support and operations the same view of what happened, what is being done, and what to tell the customer. | Customer support gives late or vague answers because operations context is fragmented. | More proactive customer communication and fewer surprise escalations. | Incident timelines capture actions, owner changes, delay reasons, resolution notes, and customer-facing context in one place. | "Give customers a straight answer before they lose confidence." |
 
 ## 8. Reasons to believe
 

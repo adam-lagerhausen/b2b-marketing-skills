@@ -59,10 +59,11 @@ PipelineGuard does not just flag risk. It explains what changed, why it matters,
 
 ## Messaging pillars
 
-1. Find deal risk before the forecast call.
-2. Show managers where to spend their next hour.
-3. Explain the risk, not just the score.
-4. Make great deal inspection repeatable.
+The three differentiated messaging pillars:
+
+1. Catch deal risk before the forecast call.
+2. Show managers where to spend their next coaching hour.
+3. Make AI risk signals explainable and configurable.
 
 ## Launch tier
 
