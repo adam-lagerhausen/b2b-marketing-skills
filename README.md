@@ -1,10 +1,8 @@
 # B2B Marketing Skills for AI Agents
 
+## Created By 👉 [Adam Lagerhausen](https://www.linkedin.com/in/adamlagerhausen/)
+
 Open-source B2B product marketing skills for AI agents, built from 10+ years of hands-on GTM work at Salesforce, Dropbox, Zeplin, ServiceNow, and startups.
-
-## Created By
-
-[Adam Lagerhausen](https://www.linkedin.com/in/adamlagerhausen/)
 
 This is not a prompt pack.
 
