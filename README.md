@@ -2,6 +2,10 @@
 
 Open-source B2B product marketing skills for AI agents, built from 10+ years of hands-on GTM work at Salesforce, Dropbox, Zeplin, ServiceNow, and startups.
 
+## Created By
+
+[Adam Lagerhausen](https://www.linkedin.com/in/adamlagerhausen/)
+
 This is not a prompt pack.
 
 It is a practical PMM operating system for agents: customer research, positioning, messaging, launches, sales narratives, demos, customer proof, category POVs, and review workflows that keep AI output grounded in buyer truth.
