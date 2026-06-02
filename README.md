@@ -8,6 +8,23 @@ This is not a prompt pack.
 
 It is a practical PMM operating system for agents: customer research, positioning, messaging, launches, sales narratives, demos, customer proof, category POVs, and review workflows that keep AI output grounded in buyer truth.
 
+## Table of contents
+
+- [The thesis](#the-thesis)
+- [Why this exists](#why-this-exists)
+- [What makes this different](#what-makes-this-different)
+- [Start here](#start-here)
+  - [Install the skills](#install-the-skills)
+  - [Choose the right skill](#choose-the-right-skill)
+- [The skill suite](#the-skill-suite)
+- [How the skills work together](#how-the-skills-work-together)
+- [Operating principles](#operating-principles)
+- [Who this is for](#who-this-is-for)
+- [Where this comes from](#where-this-comes-from)
+- [How to use](#how-to-use)
+- [Status](#status)
+- [License](#license)
+
 ## The thesis
 
 AI will make an average PMM faster. It will not make an average PMM better.
