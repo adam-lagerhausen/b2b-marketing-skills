@@ -8,6 +8,28 @@ This is not a prompt pack.
 
 It is a practical PMM operating system for agents: customer research, positioning, messaging, launches, sales narratives, demos, customer proof, category POVs, and review workflows that keep AI output grounded in buyer truth.
 
+## Install with npx
+
+Install all skills into your current project:
+
+```bash
+npx skills add adam-lagerhausen/b2b-marketing-skills
+```
+
+List available skills before installing:
+
+```bash
+npx skills add adam-lagerhausen/b2b-marketing-skills --list
+```
+
+Install only specific skills:
+
+```bash
+npx skills add adam-lagerhausen/b2b-marketing-skills --skill b2b-pmm-orchestrator positioning-messaging-framework
+```
+
+The installer copies skills into `.agents/skills/` and symlinks them into supported agent-specific skill folders, including Claude Code.
+
 ## The thesis
 
 AI will make an average PMM faster. It will not make an average PMM better.
