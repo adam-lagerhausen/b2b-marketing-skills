@@ -1,0 +1,19 @@
+{
+  "name": "b2b-marketing-skills",
+  "owner": {
+    "name": "Adam Lagerhausen",
+    "url": "https://www.linkedin.com/in/adamlagerhausen/"
+  },
+  "metadata": {
+    "description": "B2B product marketing skills for AI agents — customer research, positioning, messaging, launches, sales narratives, demos, customer proof, category POVs, and AI PMM review",
+    "version": "1.0.0",
+    "repository": "https://github.com/adam-lagerhausen/b2b-marketing-skills"
+  },
+  "plugins": [
+    {
+      "name": "b2b-marketing-skills",
+      "description": "9 B2B PMM skills for AI agents: orchestration, voice-of-customer synthesis, positioning and messaging, launch tiering, sales narratives, demo storylines, customer proof, category POVs, and AI PMM review",
+      "source": "./"
+    }
+  ]
+}

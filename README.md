@@ -8,28 +8,6 @@ This is not a prompt pack.
 
 It is a practical PMM operating system for agents: customer research, positioning, messaging, launches, sales narratives, demos, customer proof, category POVs, and review workflows that keep AI output grounded in buyer truth.
 
-## Install with npx
-
-Install all skills into your current project:
-
-```bash
-npx skills add adam-lagerhausen/b2b-marketing-skills
-```
-
-List available skills before installing:
-
-```bash
-npx skills add adam-lagerhausen/b2b-marketing-skills --list
-```
-
-Install only specific skills:
-
-```bash
-npx skills add adam-lagerhausen/b2b-marketing-skills --skill b2b-pmm-orchestrator positioning-messaging-framework
-```
-
-The installer copies skills into `.agents/skills/` and symlinks them into supported agent-specific skill folders, including Claude Code.
-
 ## The thesis
 
 AI will make an average PMM faster. It will not make an average PMM better.
@@ -90,6 +68,47 @@ The skills push agents to:
 - catch generic AI language before it reaches buyers
 
 ## Start here
+
+### Install the skills
+
+Option 1: install with npx:
+
+```bash
+npx skills add adam-lagerhausen/b2b-marketing-skills
+```
+
+List available skills before installing:
+
+```bash
+npx skills add adam-lagerhausen/b2b-marketing-skills --list
+```
+
+Install only specific skills:
+
+```bash
+npx skills add adam-lagerhausen/b2b-marketing-skills --skill b2b-pmm-orchestrator positioning-messaging-framework
+```
+
+Option 2: install inside Claude Code, no npx required:
+
+```bash
+# Add the marketplace
+/plugin marketplace add adam-lagerhausen/b2b-marketing-skills
+
+# Install all B2B PMM skills
+/plugin install b2b-marketing-skills
+```
+
+You can also run the same Claude Code flow from the terminal:
+
+```bash
+claude plugin marketplace add adam-lagerhausen/b2b-marketing-skills
+claude plugin install b2b-marketing-skills
+```
+
+The npx installer copies skills into `.agents/skills/` and symlinks them into supported agent-specific skill folders, including Claude Code.
+
+### Choose the right skill
 
 If you are not sure which skill to use, start with the orchestrator.
 

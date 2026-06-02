@@ -1,0 +1,12 @@
+{
+  "name": "b2b-marketing-skills",
+  "description": "B2B product marketing skills for AI agents — customer research, positioning, messaging, launches, sales narratives, demos, customer proof, category POVs, and AI PMM review",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adam Lagerhausen"
+  },
+  "homepage": "https://github.com/adam-lagerhausen/b2b-marketing-skills",
+  "repository": "https://github.com/adam-lagerhausen/b2b-marketing-skills",
+  "license": "MIT",
+  "skills": "./skills"
+}
